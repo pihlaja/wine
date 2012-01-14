@@ -10382,7 +10382,7 @@ msgstr ""
 #: oleview.rc:60
 #, fuzzy
 msgid "&Expert mode"
-msgstr "&Expertti"
+msgstr "&Edistynyt"
 
 #: oleview.rc:62
 msgid "&Hidden component categories"
@@ -10969,7 +10969,7 @@ msgstr ""
 
 #: regedit.rc:46 regedit.rc:97
 msgid "&Key"
-msgstr ""
+msgstr "%Avain"
 
 #: regedit.rc:48 regedit.rc:99
 msgid "&String Value"
@@ -10994,20 +10994,20 @@ msgstr ""
 #: regedit.rc:56 regedit.rc:107
 #, fuzzy
 msgid "&Rename\tF2"
-msgstr "&Nimeä uudelleen"
+msgstr "&Nimeä uudelleen\tF2"
 
 #: regedit.rc:58 regedit.rc:110
 msgid "&Copy Key Name"
-msgstr ""
+msgstr "&Kopioi avaimen nimi"
 
 #: regedit.rc:60 regedit.rc:112 wordpad.rc:50
 #, fuzzy
 msgid "&Find...\tCtrl+F"
-msgstr "T&ulosta...\tCtrl+P"
+msgstr "&Etsi...\tCtrl+F"
 
 #: regedit.rc:61
 msgid "Find Ne&xt\tF3"
-msgstr ""
+msgstr "Etsi seuraa&va\tF3"
 
 #: regedit.rc:65
 #, fuzzy
@@ -11016,7 +11016,7 @@ msgstr "Tila"
 
 #: regedit.rc:67 winefile.rc:50
 msgid "Sp&lit"
-msgstr ""
+msgstr "&Hajauta"
 
 #: regedit.rc:74
 #, fuzzy
@@ -11025,37 +11025,37 @@ msgstr "Lis&ää Suosikkeihin..."
 
 #: regedit.rc:79
 msgid "&About Registry Editor"
-msgstr ""
+msgstr "Tietoja rekisterieditorista"
 
 #: regedit.rc:88
 msgid "Modify Binary Data..."
-msgstr ""
+msgstr "Muokkaa binääridataa..."
 
 #: regedit.rc:215
 #, fuzzy
 msgid "Export registry"
-msgstr "Teksti tiedostot (*.txt)"
+msgstr "Vie rekisteri"
 
 #: regedit.rc:217
 msgid "S&elected branch:"
-msgstr ""
+msgstr "Valittu haara:"
 
 #: regedit.rc:226
 msgid "Find:"
-msgstr ""
+msgstr "Etsi"
 
 #: regedit.rc:228
 msgid "Find in:"
-msgstr ""
+msgstr "Etsi sisältäen:"
 
 #: regedit.rc:229
 msgid "Keys"
-msgstr ""
+msgstr "Avaimet"
 
 #: regedit.rc:230
 #, fuzzy
 msgid "Value names"
-msgstr "Tallennetut pelit"
+msgstr "Arvojen nimet"
 
 #: regedit.rc:231
 #, fuzzy
@@ -11068,7 +11068,7 @@ msgstr ""
 
 #: regedit.rc:232
 msgid "Whole string only"
-msgstr ""
+msgstr "Vain kokonainen teksti"
 
 #: regedit.rc:239
 #, fuzzy
@@ -11097,23 +11097,23 @@ msgstr "&Tiedosto"
 
 #: regedit.rc:266 regedit.rc:279 regedit.rc:295 regedit.rc:308
 msgid "Value data:"
-msgstr ""
+msgstr "Arvon data:"
 
 #: regedit.rc:274
 msgid "Edit DWORD"
-msgstr ""
+msgstr "Muokkaa DWORD"
 
 #: regedit.rc:281
 msgid "Base"
-msgstr ""
+msgstr "Kantaisuus"
 
 #: regedit.rc:282
 msgid "Hexadecimal"
-msgstr ""
+msgstr "Heksadesimaali"
 
 #: regedit.rc:283
 msgid "Decimal"
-msgstr ""
+msgstr "Desimaali"
 
 #: regedit.rc:290
 #, fuzzy
@@ -11147,28 +11147,28 @@ msgstr ""
 
 #: regedit.rc:139
 msgid "Contains commands for creating new keys or values"
-msgstr ""
+msgstr "Sisältää komennot uusien arvojen ja avaimien luontiin"
 
 #: regedit.rc:124
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #: regedit.rc:129
 msgid "Registry Editor"
-msgstr ""
+msgstr "Rekisterieditori"
 
 #: regedit.rc:191
 msgid "Import Registry File"
-msgstr ""
+msgstr "Tuo rekisteritiedosto"
 
 #: regedit.rc:192
 msgid "Export Registry File"
-msgstr ""
+msgstr "Vie rekisteritiedosto"
 
 #: regedit.rc:193
 #, fuzzy
 msgid "Registry files (*.reg)"
-msgstr "Teksti tiedostot (*.txt)"
+msgstr "Rekisteritiedostot(*.reg)"
 
 #: regedit.rc:194
 msgid "Win9x/NT4 Registry files (REGEDIT4)"
@@ -11214,7 +11214,7 @@ msgstr ""
 
 #: regedit.rc:164
 msgid "Change position of split between two panes"
-msgstr ""
+msgstr "Vaihtaa paikkaa kahden ruudun välillä"
 
 #: regedit.rc:165
 #, fuzzy
@@ -11223,59 +11223,59 @@ msgstr "P&äivitä"
 
 #: regedit.rc:166
 msgid "Deletes the selection"
-msgstr ""
+msgstr "Poistaa valinnan"
 
 #: regedit.rc:167
 msgid "Renames the selection"
-msgstr ""
+msgstr "Uudelleennimeää valinnan"
 
 #: regedit.rc:168
 msgid "Copies the name of the selected key to the clipboard"
-msgstr ""
+msgstr "Kopioi valitun avaimen nimen leikepöydälle"
 
 #: regedit.rc:169
 msgid "Finds a text string in a key, value or data"
-msgstr ""
+msgstr "Etsii tekstipätkän avaimesta, arvosta tai tiedosta"
 
 #: regedit.rc:170
 msgid "Finds next occurrence of text specified in previous search"
-msgstr ""
+msgstr "Etsii seuraavan osuman edellisen haun tekstille"
 
 #: regedit.rc:144
 msgid "Modifies the value's data"
-msgstr ""
+msgstr "Muokkaa arvon tietoja"
 
 #: regedit.rc:145
 msgid "Adds a new key"
-msgstr ""
+msgstr "Luo uuden avaimen"
 
 #: regedit.rc:146
 msgid "Adds a new string value"
-msgstr ""
+msgstr "Luo uuden tekstinpätkän"
 
 #: regedit.rc:147
 msgid "Adds a new binary value"
-msgstr ""
+msgstr "Luo uuden binääriarvon"
 
 #: regedit.rc:148
 msgid "Adds a new double word value"
-msgstr ""
+msgstr "Luo uuden double-arvon"
 
 #: regedit.rc:150
 msgid "Imports a text file into the registry"
-msgstr ""
+msgstr "Tuo tekstitiedosto rekisteriin"
 
 #: regedit.rc:152
 msgid "Exports all or part of the registry to a text file"
-msgstr ""
+msgstr "Vie kaikki tai osan rekisteristä tekstitiedostoon"
 
 #: regedit.rc:153
 msgid "Prints all or part of the registry"
-msgstr ""
+msgstr "Tulostaa kaikki tai osan rekisteristä"
 
 #: regedit.rc:155
 msgid "Displays program information, version number and copyright"
-msgstr ""
+msgstr "Näyttää ohjelman tiedot, version ja tekjänoikeudet"
 
 #: regedit.rc:178
 msgid "Can't query value '%s'"
@@ -11283,11 +11283,11 @@ msgstr ""
 
 #: regedit.rc:179
 msgid "Can't edit keys of this type (%u)"
-msgstr ""
+msgstr "Tämän tyypin (%u) avaimia ei voi muokata"
 
 #: regedit.rc:180
 msgid "Value is too big (%u)"
-msgstr ""
+msgstr "Arvo on liian iso (%u)"
 
 #: regedit.rc:181
 #, fuzzy
@@ -11311,11 +11311,11 @@ msgstr "Haluatko varmasti tuhota nämä %1?"
 
 #: regedit.rc:184
 msgid "New Key #%d"
-msgstr ""
+msgstr "Uusi avain #%d"
 
 #: regedit.rc:185
 msgid "New Value #%d"
-msgstr ""
+msgstr "Uusi arvo #%d"
 
 #: regedit.rc:177
 msgid "Can't query key '%s'"
@@ -11428,7 +11428,7 @@ msgstr ""
 
 #: taskkill.rc:37
 msgid "Error: Could not find process \"%1\".\n"
-msgstr ""
+msgstr "Virhe: Prosessia ei löydy."
 
 #: taskkill.rc:38
 msgid "Error: Unable to enumerate the process list.\n"
@@ -11436,7 +11436,7 @@ msgstr ""
 
 #: taskkill.rc:39
 msgid "Error: Unable to terminate process \"%1\".\n"
-msgstr ""
+msgstr "Virhe: Prosessin lopettaminen epäonnistui.\n"
 
 #: taskkill.rc:40
 msgid "Error: Process self-termination is not permitted.\n"
@@ -11444,23 +11444,23 @@ msgstr ""
 
 #: taskmgr.rc:37 taskmgr.rc:108
 msgid "&New Task (Run...)"
-msgstr ""
+msgstr "Uusi tehtävä (Aja...)"
 
 #: taskmgr.rc:39
 msgid "E&xit Task Manager"
-msgstr ""
+msgstr "Poistu"
 
 #: taskmgr.rc:45
 msgid "&Minimize On Use"
-msgstr ""
+msgstr "Pienennä käytössä"
 
 #: taskmgr.rc:47
 msgid "&Hide When Minimized"
-msgstr ""
+msgstr "Piilota pienennettäessä"
 
 #: taskmgr.rc:49 taskmgr.rc:257
 msgid "&Show 16-bit tasks"
-msgstr ""
+msgstr "Näytä 16-bittiset"
 
 #: taskmgr.rc:54
 #, fuzzy
@@ -11469,55 +11469,55 @@ msgstr "P&äivitä"
 
 #: taskmgr.rc:55
 msgid "&Update Speed"
-msgstr ""
+msgstr "Päivitysnopeus"
 
 #: taskmgr.rc:57 taskmgr.rc:158
 msgid "&High"
-msgstr ""
+msgstr "Korkea"
 
 #: taskmgr.rc:58 taskmgr.rc:162
 msgid "&Normal"
-msgstr ""
+msgstr "Normaali"
 
 #: taskmgr.rc:60 taskmgr.rc:166
 msgid "&Low"
-msgstr ""
+msgstr "Matala"
 
 #: taskmgr.rc:61
 msgid "&Paused"
-msgstr ""
+msgstr "Tauotettu"
 
 #: taskmgr.rc:68 taskmgr.rc:256
 msgid "&Select Columns..."
-msgstr ""
+msgstr "&Valitse taulukot"
 
 #: taskmgr.rc:69 taskmgr.rc:258
 msgid "&CPU History"
-msgstr ""
+msgstr "Suorittimen historia"
 
 #: taskmgr.rc:71 taskmgr.rc:259
 msgid "&One Graph, All CPUs"
-msgstr ""
+msgstr "Yksi kuvaaja, kaikki s&uorittimet"
 
 #: taskmgr.rc:73 taskmgr.rc:260
 msgid "One Graph &Per CPU"
-msgstr ""
+msgstr "Yks kuvaaja &per suoritin"
 
 #: taskmgr.rc:76 taskmgr.rc:261
 msgid "&Show Kernel Times"
-msgstr ""
+msgstr "Näytä &ytimen ajat"
 
 #: taskmgr.rc:80 taskmgr.rc:96 taskmgr.rc:123 winefile.rc:79
 msgid "Tile &Horizontally"
-msgstr ""
+msgstr "Venytä vaakatasossa"
 
 #: taskmgr.rc:81 taskmgr.rc:97 taskmgr.rc:124
 msgid "Tile &Vertically"
-msgstr ""
+msgstr "Venytä pitkittäistasossa"
 
 #: taskmgr.rc:82 taskmgr.rc:98 taskmgr.rc:125
 msgid "&Minimize"
-msgstr ""
+msgstr "Pienennä"
 
 #: taskmgr.rc:84 taskmgr.rc:100 taskmgr.rc:127
 msgid "&Cascade"
@@ -11529,20 +11529,20 @@ msgstr ""
 
 #: taskmgr.rc:90
 msgid "&About Task Manager"
-msgstr ""
+msgstr "Tietoja tehtävänhallinnasta"
 
 #: taskmgr.rc:120 taskmgr.rc:356
 msgid "&Switch To"
-msgstr ""
+msgstr "Vaihda"
 
 #: taskmgr.rc:129 taskmgr.rc:357
 msgid "&End Task"
-msgstr ""
+msgstr "Lopeta tehtävä"
 
 #: taskmgr.rc:130
 #, fuzzy
 msgid "&Go To Process"
-msgstr "Mene &Omiin Kuviin"
+msgstr "Mene &prosesseihin"
 
 #: taskmgr.rc:149 taskmgr.rc:367
 msgid "&End Process"
@@ -11558,25 +11558,25 @@ msgstr ""
 
 #: taskmgr.rc:154
 msgid "Set &Priority"
-msgstr ""
+msgstr "Aseta &prioriteetti"
 
 #: taskmgr.rc:156
 msgid "&Realtime"
-msgstr ""
+msgstr "&Reaaliaikainen"
 
 #: taskmgr.rc:160
 #, fuzzy
 msgid "&Above Normal"
-msgstr "Normal"
+msgstr "Normaalia ylempi"
 
 #: taskmgr.rc:164
 #, fuzzy
 msgid "&Below Normal"
-msgstr "Normal"
+msgstr "Normaalia alempi"
 
 #: taskmgr.rc:169
 msgid "Set &Affinity..."
-msgstr ""
+msgstr "Aseta af&finiteetti"
 
 #: taskmgr.rc:170
 msgid "Edit Debug &Channels..."
@@ -11584,24 +11584,24 @@ msgstr ""
 
 #: taskmgr.rc:342 taskmgr.rc:180 taskmgr.rc:181
 msgid "Task Manager"
-msgstr ""
+msgstr "Tehtävänhallinta"
 
 #: taskmgr.rc:355
 msgid "&New Task..."
-msgstr ""
+msgstr "&Uusi tehtävä..."
 
 #: taskmgr.rc:368
 msgid "&Show processes from all users"
-msgstr ""
+msgstr "&Näytä kaikkien käyttäjien prosessit"
 
 #: taskmgr.rc:376
 msgid "CPU usage"
-msgstr ""
+msgstr "Suorittimen käyttö"
 
 #: taskmgr.rc:377
 #, fuzzy
 msgid "MEM usage"
-msgstr "Viesti"
+msgstr "Muistin käyttö"
 
 #: taskmgr.rc:378
 msgid "Totals"
@@ -11613,11 +11613,11 @@ msgstr ""
 
 #: taskmgr.rc:380
 msgid "Physical memory (K)"
-msgstr ""
+msgstr "Fyysinen muisti (K)"
 
 #: taskmgr.rc:381
 msgid "Kernel memory (K)"
-msgstr ""
+msgstr "Ytimen muisti (K)"
 
 #: taskmgr.rc:382 taskmgr.rc:290
 msgid "Handles"
@@ -11629,41 +11629,41 @@ msgstr ""
 
 #: taskmgr.rc:384 taskmgr.rc:263
 msgid "Processes"
-msgstr ""
+msgstr "Prosessit"
 
 #: taskmgr.rc:391 taskmgr.rc:400 taskmgr.rc:409
 msgid "Total"
-msgstr ""
+msgstr "Kokonais"
 
 #: taskmgr.rc:392
 msgid "Limit"
-msgstr ""
+msgstr "Rajoitus"
 
 #: taskmgr.rc:393
 msgid "Peak"
-msgstr ""
+msgstr "Piikki"
 
 #: taskmgr.rc:402
 #, fuzzy
 msgid "System Cache"
-msgstr "Järjestelmäkansio"
+msgstr "Järjestelmän välimuisti"
 
 #: taskmgr.rc:410
 #, fuzzy
 msgid "Paged"
-msgstr "Sivu Ylös"
+msgstr "Sivutettu"
 
 #: taskmgr.rc:411
 msgid "Nonpaged"
-msgstr ""
+msgstr "Sivuttamaton"
 
 #: taskmgr.rc:418
 msgid "CPU usage history"
-msgstr ""
+msgstr "Suorittimen käyttöhistoria"
 
 #: taskmgr.rc:419
 msgid "Memory usage history"
-msgstr ""
+msgstr "Muistin käyttöhistoria"
 
 #: taskmgr.rc:432 taskmgr.rc:327
 msgid "Debug Channels"
@@ -11672,7 +11672,7 @@ msgstr ""
 #: taskmgr.rc:443
 #, fuzzy
 msgid "Processor Affinity"
-msgstr "Käsitellään; "
+msgstr "Prosessin affiniteetti"
 
 #: taskmgr.rc:448
 msgid ""
@@ -11829,15 +11829,15 @@ msgstr ""
 
 #: taskmgr.rc:529
 msgid "&CPU Usage"
-msgstr ""
+msgstr "Suorittimen käyttö"
 
 #: taskmgr.rc:531
 msgid "CPU Tim&e"
-msgstr ""
+msgstr "Suoritin"
 
 #: taskmgr.rc:533
 msgid "&Memory Usage"
-msgstr ""
+msgstr "Muistinkäyttö"
 
 #: taskmgr.rc:535
 msgid "Memory Usage &Delta"
@@ -11845,7 +11845,7 @@ msgstr ""
 
 #: taskmgr.rc:537
 msgid "Pea&k Memory Usage"
-msgstr ""
+msgstr "Muistinkäytön piikki"
 
 #: taskmgr.rc:539
 #, fuzzy
@@ -11858,15 +11858,15 @@ msgstr ""
 
 #: taskmgr.rc:543 taskmgr.rc:281
 msgid "I/O Reads"
-msgstr ""
+msgstr "I/O luvut"
 
 #: taskmgr.rc:545 taskmgr.rc:282
 msgid "I/O Read Bytes"
-msgstr ""
+msgstr "I/O luetut tavut"
 
 #: taskmgr.rc:547
 msgid "&Session ID"
-msgstr ""
+msgstr "Istunnon ID"
 
 #: taskmgr.rc:549
 #, fuzzy
@@ -12188,7 +12188,7 @@ msgstr ""
 
 #: taskmgr.rc:305
 msgid "Unable to Change Priority"
-msgstr ""
+msgstr "Prioriteetin vaihtaminen epäonnistui"
 
 #: taskmgr.rc:310
 msgid ""
@@ -12201,41 +12201,43 @@ msgstr ""
 
 #: taskmgr.rc:311
 msgid "Unable to Terminate Process"
-msgstr ""
+msgstr "Prosessin lopettaminen epäonnistui"
 
 #: taskmgr.rc:313
 msgid ""
 "WARNING: Debugging this process may result in loss of data.\n"
 "Are you sure you wish to attach the debugger?"
 msgstr ""
+"WARNING: Tämän prosessin debuggaus saattaa aiheuttaa tietojen menetyksiä.\n"
+"Haluatko varmasti liittää debuggerin?"
 
 #: taskmgr.rc:314
 msgid "Unable to Debug Process"
-msgstr ""
+msgstr "Prosessin debuggaus epäonnistui"
 
 #: taskmgr.rc:315
 msgid "The process must have affinity with at least one processor"
-msgstr ""
+msgstr "Prosessilla on oltava affiniteetti ainakin yhteen suorittimeen"
 
 #: taskmgr.rc:316
 msgid "Invalid Option"
-msgstr ""
+msgstr "Virheellinen asetus"
 
 #: taskmgr.rc:317
 msgid "Unable to Access or Set Process Affinity"
-msgstr ""
+msgstr "Prosessin affiniteettiä ei pystytty asettamaan"
 
 #: taskmgr.rc:322
 msgid "System Idle Process"
-msgstr ""
+msgstr "Järjestelmän vapaaprosessi"
 
 #: taskmgr.rc:323
 msgid "Not Responding"
-msgstr ""
+msgstr "Ei vastaa"
 
 #: taskmgr.rc:324
 msgid "Running"
-msgstr ""
+msgstr "Käynnissä"
 
 #: taskmgr.rc:325
 msgid "Task"
@@ -12276,11 +12278,11 @@ msgstr ""
 
 #: view.rc:35
 msgid "&Scale to Window"
-msgstr ""
+msgstr "Skaalaa ikkunaan"
 
 #: view.rc:37
 msgid "&Left"
-msgstr ""
+msgstr "&Vasen"
 
 #: view.rc:38
 #, fuzzy
@@ -12293,7 +12295,7 @@ msgstr ""
 
 #: wineboot.rc:28
 msgid "Waiting for Program"
-msgstr ""
+msgstr "Odotetaan ohjelmaa"
 
 #: wineboot.rc:32
 #, fuzzy
@@ -12307,6 +12309,10 @@ msgid ""
 "\n"
 "If you terminate the process you may lose all unsaved data."
 msgstr ""
+"Simuloitu uloskirjautuminen tai sammutus on käynnissä, mutta tämä ohjelma "
+"ei vastaa.\n"
+"\n"
+"Jos lopetat prosessin, saatat menettää tallentamattomat tiedot."
 
 #: wineboot.rc:39
 msgid "Wine"
@@ -12314,7 +12320,7 @@ msgstr "Wine"
 
 #: wineboot.rc:43
 msgid "The Wine configuration in %s is being updated, please wait..."
-msgstr ""
+msgstr "Winen asetuksia kohteessa %s päivitetään, odota hetki..."
 
 #: winecfg.rc:132
 msgid ""
@@ -12323,10 +12329,10 @@ msgid ""
 "Free Software Foundation; either version 2.1 of the License, or (at your "
 "option) any later version."
 msgstr ""
-"This program is free software; you can redistribute it and/or modify it "
-"under the terms of the GNU Lesser General Public License as published by the "
-"Free Software Foundation; either version 2.1 of the License, or (at your "
-"option) any later version."
+"Tämä on vapaa ohjelmisto; voit jakaa sen uudelleen ja/tai muokata sitä "
+"GNU Lesser General Public License -lisenssin ehdoin, "
+"(julkaissut Free Software Foundation); joko lisenssiversion 2.1, tai (oman "
+"valintasi mukaan) uudemman mukaan."
 
 #: winecfg.rc:134
 #, fuzzy
@@ -12440,7 +12446,7 @@ msgstr "Edit Override"
 #: winecfg.rc:199
 #, fuzzy
 msgid "Load order"
-msgstr " Lataamisjärjestys "
+msgstr "Lataamisjärjestys"
 
 #: winecfg.rc:200
 msgid "&Builtin (Wine)"
