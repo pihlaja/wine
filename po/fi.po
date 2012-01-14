@@ -9891,11 +9891,11 @@ msgstr ""
 
 #: cmd.rc:321
 msgid "Press any key to continue... "
-msgstr ""
+msgstr "Paina mitä tahansa jatkaaksesi"
 
 #: cmd.rc:322
 msgid "Wine Command Prompt"
-msgstr ""
+msgstr "Winen komentorivi"
 
 #: cmd.rc:323
 msgid "CMD Version %1!S!\n"
@@ -9903,7 +9903,7 @@ msgstr ""
 
 #: cmd.rc:324
 msgid "More? "
-msgstr ""
+msgstr "Lisää?"
 
 #: cmd.rc:325
 msgid "The input line is too long.\n"
@@ -9937,11 +9937,11 @@ msgstr "Sijainti"
 
 #: hostname.rc:27
 msgid "Usage: hostname\n"
-msgstr ""
+msgstr "Käyttö: isäntä\n"
 
 #: hostname.rc:28
 msgid "Error: Invalid option '%c'.\n"
-msgstr ""
+msgstr "Virhe: Virheellinen asetus '%c'.\n"
 
 #: hostname.rc:29
 msgid ""
@@ -9971,7 +9971,7 @@ msgstr ""
 
 #: ipconfig.rc:34
 msgid "Hostname"
-msgstr ""
+msgstr "Isäntä"
 
 #: ipconfig.rc:35
 msgid "Node type"
@@ -12331,7 +12331,7 @@ msgstr ""
 #: winecfg.rc:134
 #, fuzzy
 msgid "Windows registration information"
-msgstr " Windows Registration Information "
+msgstr "Windowsin rekisteröintitiedot"
 
 #: winecfg.rc:135
 msgid "&Owner:"
@@ -12371,15 +12371,15 @@ msgstr "&Windowsin versio:"
 #: winecfg.rc:160
 #, fuzzy
 msgid "Window settings"
-msgstr " Ikkuna-asetukset "
+msgstr "Ikkuna-asetukset"
 
 #: winecfg.rc:161
 msgid "Automatically capture the &mouse in full-screen windows"
-msgstr "Automatically capture the &mouse in full-screen windows"
+msgstr "Kaappaa &hiiri automaattisesti kokoikkunassa"
 
 #: winecfg.rc:162
 msgid "Allow the window manager to &decorate the windows"
-msgstr "Allow the window manager to &decorate the windows"
+msgstr "Salli ikkunamanagerin &ulkoasut ikkunoille"
 
 #: winecfg.rc:163
 msgid "Allow the &window manager to control the windows"
@@ -12396,11 +12396,11 @@ msgstr "Työpöydän koko:"
 #: winecfg.rc:171
 #, fuzzy
 msgid "Screen resolution"
-msgstr " Screen &Resolution "
+msgstr "Ikkunan &resoluutio"
 
 #: winecfg.rc:175
 msgid "This is a sample text using 10 point Tahoma"
-msgstr "This is a sample text using 10 point Tahoma"
+msgstr "Esimerkkiteksti 10 Tahoma"
 
 #: winecfg.rc:182
 #, fuzzy
@@ -12470,7 +12470,7 @@ msgstr "&Valitse Kaikki"
 #: winecfg.rc:223
 #, fuzzy
 msgid "Drive mappings"
-msgstr " Asemien mappaukset "
+msgstr "Asemien polut"
 
 #: winecfg.rc:224
 msgid ""
@@ -12519,37 +12519,37 @@ msgstr "Näytä p&istetiedostot"
 #: winecfg.rc:256
 #, fuzzy
 msgid "Driver diagnostics"
-msgstr " Driver Diagnostics "
+msgstr "Ajurin tiedot"
 
 #: winecfg.rc:258
 #, fuzzy
 msgid "Defaults"
-msgstr " Defaults "
+msgstr "Oletukset"
 
 #: winecfg.rc:259
 msgid "Output device:"
-msgstr "Output device:"
+msgstr "Uloslähtö:"
 
 #: winecfg.rc:260
 msgid "Voice output device:"
-msgstr "Voice output device:"
+msgstr "Äänen uloslähtö:"
 
 #: winecfg.rc:261
 msgid "Input device:"
-msgstr "Input device:"
+msgstr "Sisääntulo:"
 
 #: winecfg.rc:262
 msgid "Voice input device:"
-msgstr "Voice input device:"
+msgstr "Äänen sisääntulo:"
 
 #: winecfg.rc:267
 msgid "&Test Sound"
-msgstr "&Test Sound"
+msgstr "&Testaa ääni"
 
 #: winecfg.rc:274
 #, fuzzy
 msgid "Appearance"
-msgstr " Ulkonäkö "
+msgstr "Ulkonäkö"
 
 #: winecfg.rc:275
 msgid "&Theme:"
@@ -12561,11 +12561,11 @@ msgstr "Asenna &teema..."
 
 #: winecfg.rc:282
 msgid "It&em:"
-msgstr "Item:"
+msgstr "Kohde:"
 
 #: winecfg.rc:284
 msgid "C&olor:"
-msgstr "Color:"
+msgstr "Väri:"
 
 #: winecfg.rc:290
 #, fuzzy
@@ -12627,7 +12627,7 @@ msgstr "Valitse teematiedosto"
 
 #: winecfg.rc:45
 msgid "Folder"
-msgstr ""
+msgstr "Kansio"
 
 #: winecfg.rc:46
 msgid "Links to"
@@ -12635,11 +12635,11 @@ msgstr ""
 
 #: winecfg.rc:42
 msgid "Wine configuration for %s"
-msgstr ""
+msgstr "Winen asetukset kohteelle %s"
 
 #: winecfg.rc:81
 msgid "Selected driver: %s"
-msgstr ""
+msgstr "Asetettu ajuri: %s"
 
 #: winecfg.rc:82
 msgid "(None)"
@@ -12692,31 +12692,31 @@ msgstr "Oletusasetukset"
 
 #: winecfg.rc:59
 msgid "Wine Programs (*.exe; *.exe.so)"
-msgstr ""
+msgstr "Wine-ohjelmat (*.exe; *exe.so)"
 
 #: winecfg.rc:60
 msgid "Use global settings"
-msgstr ""
+msgstr "Käytä globaaleja asetuksia"
 
 #: winecfg.rc:61
 msgid "Select an executable file"
-msgstr ""
+msgstr "Valitse suoritettava tiedosto"
 
 #: winecfg.rc:66
 msgid "Autodetect..."
-msgstr ""
+msgstr "Tunnista automaattisesti..."
 
 #: winecfg.rc:67
 msgid "Local hard disk"
-msgstr ""
+msgstr "Paikallinen kiintolevy"
 
 #: winecfg.rc:68
 msgid "Network share"
-msgstr ""
+msgstr "Verkkojako"
 
 #: winecfg.rc:69
 msgid "Floppy disk"
-msgstr ""
+msgstr "Korppuasema"
 
 #: winecfg.rc:70
 msgid "CD-ROM"
@@ -12731,7 +12731,7 @@ msgstr ""
 
 #: winecfg.rc:72
 msgid "System drive"
-msgstr ""
+msgstr "Järjestelmäasema"
 
 #: winecfg.rc:73
 msgid ""
@@ -12745,11 +12745,11 @@ msgstr ""
 #, fuzzy
 msgctxt "Drive letter"
 msgid "Letter"
-msgstr "Letter"
+msgstr "Kirjain"
 
 #: winecfg.rc:75
 msgid "Drive Mapping"
-msgstr ""
+msgstr "Aseman polku"
 
 #: winecfg.rc:76
 msgid ""
