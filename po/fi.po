@@ -12901,7 +12901,7 @@ msgstr ""
 
 #: winecfg.rc:120
 msgid "Menu Highlight"
-msgstr ""
+msgstr "Valikon korostus"
 
 #: winecfg.rc:121
 msgid "Menu Bar"
@@ -13168,7 +13168,7 @@ msgstr "Wine-ohjelma"
 
 #: winedbg.rc:36
 msgid "Internal errors - invalid parameters received"
-msgstr ""
+msgstr "Sisäisiä virheitä - virheelliset parametrit"
 
 #: winedbg.rc:37
 msgid "(unidentified)"
@@ -13186,7 +13186,7 @@ msgstr ""
 #: winefile.rc:30
 #, fuzzy
 msgid "Re&name..."
-msgstr "&Huomautus..."
+msgstr "&Nimeä uudelleen"
 
 #: winefile.rc:31
 #, fuzzy
@@ -13215,7 +13215,7 @@ msgstr "&Yhdistä verkkoasemaan..."
 
 #: winefile.rc:46
 msgid "&Disconnect Network Drive"
-msgstr "&Katkaise verkkoasema"
+msgstr "&Katkaise verkkoasemasta"
 
 #: winefile.rc:52
 msgid "&Name"
@@ -13244,11 +13244,11 @@ msgstr "Lajittele päiväyksen mukaan"
 #: winefile.rc:60
 #, fuzzy
 msgid "Filter by&..."
-msgstr "&Kirjoittimen asetukset..."
+msgstr "&Suodata..."
 
 #: winefile.rc:67
 msgid "&Drivebar"
-msgstr ""
+msgstr "Asemarivi"
 
 #: winefile.rc:70
 msgid "F&ull Screen\tCtrl+Shift+S"
@@ -13261,12 +13261,12 @@ msgstr "A&vaa Uudessa Ikkunassa"
 
 #: winefile.rc:78
 msgid "Cascading\tCtrl+F5"
-msgstr ""
+msgstr "Sovita"
 
 #: winefile.rc:80
 #, fuzzy
 msgid "Tile &Vertically\tCtrl+F4"
-msgstr "&Valitse kaikki"
+msgstr "&Venytä pystysuunnassa"
 
 #: winefile.rc:87
 msgid "&About Wine File Manager"
@@ -13275,7 +13275,7 @@ msgstr "Tietoja Winen tiedostomanagerista"
 #: winefile.rc:128
 #, fuzzy
 msgid "Select destination"
-msgstr "&Valitse Kaikki"
+msgstr "&Valitse kohde"
 
 #: winefile.rc:141
 #, fuzzy
@@ -13285,7 +13285,7 @@ msgstr "&Tyypin mukaan"
 #: winefile.rc:146
 #, fuzzy
 msgid "File type"
-msgstr "Tiedosto"
+msgstr "Tiedostotyyppi"
 
 #: winefile.rc:147
 msgid "&Directories"
@@ -13312,7 +13312,7 @@ msgstr "N&äytä piilotetut"
 #: winefile.rc:166
 #, fuzzy
 msgid "&File Name:"
-msgstr "&Tiedosto"
+msgstr "&Tiedosto:"
 
 #: winefile.rc:168
 msgid "Full &Path:"
@@ -13343,7 +13343,7 @@ msgstr "&Arkisto"
 #: winefile.rc:182
 #, fuzzy
 msgid "&System"
-msgstr "L&iitä\tCtrl+V"
+msgstr "&Järjestelmä"
 
 #: winefile.rc:183
 msgid "&Compressed"
@@ -13372,15 +13372,15 @@ msgstr "Winen tiedostomanageri"
 
 #: winefile.rc:101
 msgid "root fs"
-msgstr ""
+msgstr "root fs"
 
 #: winefile.rc:102
 msgid "unixfs"
-msgstr ""
+msgstr "unisxfs"
 
 #: winefile.rc:104
 msgid "Shell"
-msgstr ""
+msgstr "Shell"
 
 #: winefile.rc:105 winhlp32.rc:107 winhlp32.rc:82
 #, fuzzy
@@ -13390,44 +13390,44 @@ msgstr "Ei käytettävissä"
 #: winefile.rc:112
 #, fuzzy
 msgid "CDate"
-msgstr "&Päivämäärä"
+msgstr "Luonti"
 
 #: winefile.rc:113
 #, fuzzy
 msgid "ADate"
-msgstr "&Päivämäärä"
+msgstr "Käyttö"
 
 #: winefile.rc:114
 #, fuzzy
 msgid "MDate"
-msgstr "&Päivämäärä"
+msgstr "Muokkaus"
 
 #: winefile.rc:115
 msgid "Index/Inode"
-msgstr ""
+msgstr "Indeksi"
 
 #: winefile.rc:120
 msgid "%1 of %2 free"
-msgstr ""
+msgstr "%1 %2 sta vapaana"
 
 #: winefile.rc:121
 msgctxt "unit kilobyte"
 msgid "kB"
-msgstr ""
+msgstr "kB"
 
 #: winefile.rc:122
 msgctxt "unit megabyte"
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 #: winefile.rc:123
 msgctxt "unit gigabyte"
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 #: winemine.rc:34
 msgid "&Game"
-msgstr ""
+msgstr "&Peli"
 
 #: winemine.rc:35
 msgid "&New\tF2"
@@ -13435,7 +13435,7 @@ msgstr "&Uusi\tF2"
 
 #: winemine.rc:37
 msgid "Question &Marks"
-msgstr ""
+msgstr "Kysymysmerkit"
 
 #: winemine.rc:39
 msgid "&Beginner"
@@ -13460,7 +13460,7 @@ msgstr "&Nopeimmat ajat"
 
 #: winemine.rc:49
 msgid "&About WineMine"
-msgstr ""
+msgstr "&Tietoja Wine-miinakentästä"
 
 #: winemine.rc:56
 msgid "Fastest Times"
