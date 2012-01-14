@@ -82,7 +82,7 @@ msgstr ""
 
 #: appwiz.rc:77
 msgid "Publisher:"
-msgstr ""
+msgstr "Julkaisija:"
 
 #: appwiz.rc:78 winefile.rc:172
 msgid "Version:"
@@ -1175,23 +1175,23 @@ msgstr "&Nimen mukaan"
 
 #: credui.rc:45 cryptui.rc:394
 msgid "&Password:"
-msgstr ""
+msgstr "&Salasana:"
 
 #: credui.rc:47
 msgid "&Remember my password"
-msgstr ""
+msgstr "&Muista salasanani"
 
 #: credui.rc:27
 msgid "Connect to %s"
-msgstr ""
+msgstr "Yhdistä kohteeseen %s"
 
 #: credui.rc:28
 msgid "Connecting to %s"
-msgstr ""
+msgstr "Yhdistetään kohteeseen %s"
 
 #: credui.rc:29
 msgid "Logon unsuccessful"
-msgstr ""
+msgstr "Kirjautuminen epäonnistui"
 
 #: credui.rc:30
 msgid ""
@@ -1209,7 +1209,7 @@ msgstr ""
 
 #: credui.rc:31
 msgid "Caps Lock is On"
-msgstr ""
+msgstr "Isot kirjaimet päällä"
 
 #: crypt32.rc:27
 msgid "Authority Key Identifier"
@@ -10045,7 +10045,7 @@ msgstr ""
 
 #: net.rc:31
 msgid "Could not stop service %1\n"
-msgstr ""
+msgstr "Ei voida pysäyttää palvelua %1\n"
 
 #: net.rc:32
 msgid "Could not get handle to service control manager.\n"
@@ -10057,11 +10057,11 @@ msgstr ""
 
 #: net.rc:34
 msgid "The %1 service is starting.\n"
-msgstr ""
+msgstr "Palvelua %1 käynnistetään.\n"
 
 #: net.rc:35
 msgid "The %1 service was started successfully.\n"
-msgstr ""
+msgstr "Palvelu %1 käynnistettiin onnistuneesti.\n"
 
 #: net.rc:36
 #, fuzzy
@@ -12405,7 +12405,7 @@ msgstr "This is a sample text using 10 point Tahoma"
 #: winecfg.rc:182
 #, fuzzy
 msgid "DLL overrides"
-msgstr " DLL-kirjastojen määritykset "
+msgstr "DLL-kirjastojen määritykset"
 
 #: winecfg.rc:183
 msgid ""
@@ -12688,7 +12688,7 @@ msgstr "ei käytössä"
 
 #: winecfg.rc:58
 msgid "Default Settings"
-msgstr ""
+msgstr "Oletusasetukset"
 
 #: winecfg.rc:59
 msgid "Wine Programs (*.exe; *.exe.so)"
