@@ -8529,11 +8529,11 @@ msgstr "&Lisää ikkunoita..."
 
 #: wineps.rc:28
 msgid "Paper Si&ze:"
-msgstr ""
+msgstr "Paperin koko:"
 
 #: wineps.rc:36
 msgid "Duplex:"
-msgstr ""
+msgstr "Kaksipuoleinen"
 
 #: wininet.rc:39 wininet.rc:59
 msgid "Realm"
@@ -8545,7 +8545,7 @@ msgstr "&Tallenna tämä salasana (epäturvallinen)"
 
 #: wininet.rc:54
 msgid "Authentication Required"
-msgstr ""
+msgstr "Tunnistautuminen vaaditaan"
 
 #: wininet.rc:58
 #, fuzzy
@@ -8554,16 +8554,16 @@ msgstr "Vieritä Alas"
 
 #: wininet.rc:74
 msgid "Security Warning"
-msgstr ""
+msgstr "Turvallisuusvaroitus"
 
 #: wininet.rc:77
 msgid "There is a problem with the certificate for this site."
-msgstr ""
+msgstr "Sivuston sertifikaatissa on virhe."
 
 #: wininet.rc:79
 #, fuzzy
 msgid "Do you want to continue anyway?"
-msgstr "Haluatko simuloida Windowsin uudelleenkäynnistämistä?"
+msgstr "Haluatko jatkaa silti?"
 
 #: wininet.rc:25
 msgid "LAN Connection"
@@ -8571,15 +8571,15 @@ msgstr "Lähiverkkoyhteys"
 
 #: wininet.rc:26
 msgid "The certificate is issued by an unknown or untrusted publisher."
-msgstr ""
+msgstr "Sertifikaatti on tuntematon tai epäluotettava."
 
 #: wininet.rc:27
 msgid "The date on the certificate is invalid."
-msgstr ""
+msgstr "Sertifikaatin päiväys on virheellinen."
 
 #: wininet.rc:28
 msgid "The name on the certificate does not match the site."
-msgstr ""
+msgstr "Sertifikaatin nimi ei täsmää sivustoon."
 
 #: wininet.rc:29
 msgid ""
@@ -8600,7 +8600,7 @@ msgstr ""
 
 #: winmm.rc:31
 msgid "The driver was not enabled."
-msgstr ""
+msgstr "Ajuria ei otettu käyttöön."
 
 #: winmm.rc:32
 msgid ""
@@ -8614,7 +8614,7 @@ msgstr ""
 
 #: winmm.rc:34
 msgid "There is no driver installed on your system!"
-msgstr ""
+msgstr "Ajuria ei ole asennettu!"
 
 #: winmm.rc:35 winmm.rc:61
 msgid ""
@@ -12094,19 +12094,19 @@ msgstr ""
 
 #: taskmgr.rc:264
 msgid "Performance"
-msgstr ""
+msgstr "Suorituskyky"
 
 #: taskmgr.rc:265
 msgid "CPU Usage: %3d%%"
-msgstr ""
+msgstr "Suorittimen käyttö: %3d%%"
 
 #: taskmgr.rc:266
 msgid "Processes: %d"
-msgstr ""
+msgstr "Prosessit: %d"
 
 #: taskmgr.rc:267
 msgid "Mem Usage: %1!u!kB / %2!u!kB"
-msgstr ""
+msgstr "Muistin käyttö %1!u!kB / %2!u!kB"
 
 #: taskmgr.rc:272
 #, fuzzy
@@ -12344,7 +12344,7 @@ msgstr "Organisaatio:"
 #: winecfg.rc:145
 #, fuzzy
 msgid "Application settings"
-msgstr " Sovellusten asetukset "
+msgstr "Sovellusten asetukset"
 
 #: winecfg.rc:146
 msgid ""
@@ -12775,7 +12775,7 @@ msgstr "&Kopioi Tausta"
 
 #: winecfg.rc:94
 msgid "Menu Text"
-msgstr ""
+msgstr "Valikkoteksti"
 
 #: winecfg.rc:95
 #, fuzzy
@@ -12808,7 +12808,7 @@ msgstr "&Kopioi Tausta"
 
 #: winecfg.rc:101
 msgid "Window Text"
-msgstr ""
+msgstr "Ikkunan teksti"
 
 #: winecfg.rc:102
 #, fuzzy
@@ -13173,11 +13173,11 @@ msgstr "Ominaisuudet"
 
 #: winefile.rc:33
 msgid "&Run..."
-msgstr ""
+msgstr "&Suorita..."
 
 #: winefile.rc:35
 msgid "Cr&eate Directory..."
-msgstr ""
+msgstr "&Luo hakemisto..."
 
 #: winefile.rc:38 winemine.rc:46
 msgid "E&xit\tAlt+X"
@@ -13185,39 +13185,39 @@ msgstr "&Poistu\tAlt+X"
 
 #: winefile.rc:44
 msgid "&Disk"
-msgstr ""
+msgstr "&Asema"
 
 #: winefile.rc:45
 msgid "Connect &Network Drive..."
-msgstr ""
+msgstr "&Yhdistä verkkoasemaan..."
 
 #: winefile.rc:46
 msgid "&Disconnect Network Drive"
-msgstr ""
+msgstr "&Katkaise verkkoasema"
 
 #: winefile.rc:52
 msgid "&Name"
-msgstr ""
+msgstr "Nimi"
 
 #: winefile.rc:53
 msgid "&All File Details"
-msgstr ""
+msgstr "Kaikki tiedoston tiedot"
 
 #: winefile.rc:55
 msgid "&Sort by Name"
-msgstr ""
+msgstr "Lajittele nimen mukaan"
 
 #: winefile.rc:56
 msgid "Sort &by Type"
-msgstr ""
+msgstr "Lajittele tyypin mukaan"
 
 #: winefile.rc:57
 msgid "Sort by Si&ze"
-msgstr ""
+msgstr "Lajittele koon mukaan"
 
 #: winefile.rc:58
 msgid "Sort by &Date"
-msgstr ""
+msgstr "Lajittele päiväyksen mukaan"
 
 #: winefile.rc:60
 #, fuzzy
@@ -13230,7 +13230,7 @@ msgstr ""
 
 #: winefile.rc:70
 msgid "F&ull Screen\tCtrl+Shift+S"
-msgstr ""
+msgstr "K&okoruutu\tCtrl+Shift+S"
 
 #: winefile.rc:77
 #, fuzzy
@@ -13248,7 +13248,7 @@ msgstr "&Valitse kaikki"
 
 #: winefile.rc:87
 msgid "&About Wine File Manager"
-msgstr ""
+msgstr "Tietoja Winen tiedostomanagerista"
 
 #: winefile.rc:128
 #, fuzzy
@@ -13267,7 +13267,7 @@ msgstr "Tiedosto"
 
 #: winefile.rc:147
 msgid "&Directories"
-msgstr ""
+msgstr "&Hakemistot"
 
 #: winefile.rc:149
 #, fuzzy
@@ -13281,11 +13281,11 @@ msgstr "Tiedostot"
 
 #: winefile.rc:153
 msgid "&Other files"
-msgstr ""
+msgstr "Muut tiedostot"
 
 #: winefile.rc:155
 msgid "Show Hidden/&System Files"
-msgstr ""
+msgstr "N&äytä piilotetut"
 
 #: winefile.rc:166
 #, fuzzy
@@ -13294,29 +13294,29 @@ msgstr "&Tiedosto"
 
 #: winefile.rc:168
 msgid "Full &Path:"
-msgstr ""
+msgstr "Koko polk&u:"
 
 #: winefile.rc:170
 msgid "Last Change:"
-msgstr ""
+msgstr "Viimeisin muutos:"
 
 #: winefile.rc:174
 #, fuzzy
 msgid "Cop&yright:"
-msgstr "&Oikea:"
+msgstr "&Tekijänoikeus:"
 
 #: winefile.rc:176
 #, fuzzy
 msgid "Size:"
-msgstr "Koko"
+msgstr "Koko:"
 
 #: winefile.rc:180
 msgid "H&idden"
-msgstr ""
+msgstr "%Piilotettu"
 
 #: winefile.rc:181
 msgid "&Archive"
-msgstr ""
+msgstr "&Arkisto"
 
 #: winefile.rc:182
 #, fuzzy
@@ -13325,12 +13325,12 @@ msgstr "L&iitä\tCtrl+V"
 
 #: winefile.rc:183
 msgid "&Compressed"
-msgstr ""
+msgstr "Pakattu"
 
 #: winefile.rc:184
 #, fuzzy
 msgid "Version information"
-msgstr ""
+msgstr "Version tiedot"
 "#-#-#-#-#  fi.po (Wine)  #-#-#-#-#\n"
 "Tiedoitus\n"
 "#-#-#-#-#  fi.po (Wine)  #-#-#-#-#\n"
