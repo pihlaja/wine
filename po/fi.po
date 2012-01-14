@@ -10119,11 +10119,11 @@ msgstr "Lähiverkkoyhteys"
 
 #: net.rc:49
 msgid "Reconnecting"
-msgstr ""
+msgstr "Uudelleenyhdistetään"
 
 #: net.rc:40
 msgid "The following services are running:\n"
-msgstr ""
+msgstr "Seuraavat palvelut ovat käynnissä:\n"
 
 #: notepad.rc:27
 msgid "&New\tCtrl+N"
@@ -10209,7 +10209,7 @@ msgstr ""
 
 #: notepad.rc:59
 msgid "&About Notepad"
-msgstr ""
+msgstr "&Tietoja Notepadista"
 
 #: notepad.rc:97
 msgid "Page Setup"
@@ -10226,7 +10226,7 @@ msgstr "Alao&tsikko:"
 #: notepad.rc:104
 #, fuzzy
 msgid "Margins (millimeters)"
-msgstr "&Marginaali:"
+msgstr "&Marginaali (millimetriä):"
 
 #: notepad.rc:105
 msgid "&Left:"
@@ -10259,7 +10259,7 @@ msgstr "(otsikoimaton)"
 
 #: notepad.rc:74
 msgid "Text files (*.txt)"
-msgstr "Teksti tiedostot (*.txt)"
+msgstr "Tekstitiedostot (*.txt)"
 
 #: notepad.rc:77
 msgid ""
@@ -12643,16 +12643,16 @@ msgstr "Asetettu ajuri: %s"
 
 #: winecfg.rc:82
 msgid "(None)"
-msgstr ""
+msgstr "(Ei mitään)"
 
 #: winecfg.rc:83
 msgid "Audio test failed!"
-msgstr ""
+msgstr "Äänen testaus epäonnistui!"
 
 #: winecfg.rc:85
 #, fuzzy
 msgid "(System default)"
-msgstr "Järjestelmäkansio"
+msgstr "(Järjestelmän oletus)"
 
 #: winecfg.rc:51
 msgid ""
@@ -12740,6 +12740,10 @@ msgid ""
 "Most Windows applications expect drive C to exist, and will die messily if "
 "it doesn't. If you proceed remember to recreate it!"
 msgstr ""
+"Haluatko varmasti poistaa C-aseman?\n"
+"\n"
+"Useimmat Windows-ohjelmat olettavat C-aseman olevan olemassa, ja lakkaavat toimimasta, "
+"jos sellainen puuttuu. Jos kuitenkin poistat, muista luoda uusi!"
 
 #: winecfg.rc:74
 #, fuzzy
@@ -12757,6 +12761,9 @@ msgid ""
 "\n"
 "Remember to click 'Add' in the Drives tab to create one!\n"
 msgstr ""
+"Sinulla ei ole C-asemaa. Tämä ei ole hyvä juttu.\n"
+"\n"
+"Muista klikata 'Lisää' asema-asetuksissa luodaksesi sellaisen!\n"
 
 #: winecfg.rc:90
 #, fuzzy
@@ -12817,7 +12824,7 @@ msgstr "&Ilman otsikkopalkkia"
 
 #: winecfg.rc:103
 msgid "Active Title Text"
-msgstr ""
+msgstr "Aktiivinen otsikkoteksti"
 
 #: winecfg.rc:104
 msgid "Inactive Title Bar"
@@ -12825,11 +12832,11 @@ msgstr ""
 
 #: winecfg.rc:105
 msgid "Inactive Title Text"
-msgstr ""
+msgstr "Passiivinen otsikkoteksti"
 
 #: winecfg.rc:106
 msgid "Message Box Text"
-msgstr ""
+msgstr "Viestilaatikon teksti"
 
 #: winecfg.rc:107
 #, fuzzy
@@ -12896,19 +12903,19 @@ msgstr ""
 
 #: wineconsole.rc:60
 msgid "Cursor size"
-msgstr ""
+msgstr "Kursorin koko"
 
 #: wineconsole.rc:61
 msgid "&Small"
-msgstr ""
+msgstr "&Pieni"
 
 #: wineconsole.rc:62
 msgid "&Medium"
-msgstr ""
+msgstr "&Normaali"
 
 #: wineconsole.rc:63
 msgid "&Large"
-msgstr ""
+msgstr "&Iso"
 
 #: wineconsole.rc:65
 #, fuzzy
@@ -12917,7 +12924,7 @@ msgstr "Hallinta"
 
 #: wineconsole.rc:66
 msgid "Popup menu"
-msgstr ""
+msgstr "Valikko"
 
 #: wineconsole.rc:67
 #, fuzzy
@@ -12926,11 +12933,11 @@ msgstr "Hallinta"
 
 #: wineconsole.rc:68
 msgid "S&hift"
-msgstr ""
+msgstr "Vaihda"
 
 #: wineconsole.rc:69
 msgid "Quick edit"
-msgstr ""
+msgstr "Pikamuokkaus"
 
 #: wineconsole.rc:70
 #, fuzzy
@@ -12939,7 +12946,7 @@ msgstr "&Taulukko"
 
 #: wineconsole.rc:72
 msgid "Command history"
-msgstr ""
+msgstr "Komentohistoria"
 
 #: wineconsole.rc:73
 msgid "&Number of recalled commands :"
@@ -12958,7 +12965,7 @@ msgstr "Fontit"
 #: wineconsole.rc:86
 #, fuzzy
 msgid "&Color"
-msgstr "&Palsta"
+msgstr "&Väri"
 
 #: wineconsole.rc:97
 #, fuzzy
@@ -12971,20 +12978,20 @@ msgstr ""
 
 #: wineconsole.rc:101
 msgid "&Width :"
-msgstr ""
+msgstr "Leveys:"
 
 #: wineconsole.rc:104
 #, fuzzy
 msgid "&Height :"
-msgstr "&Oikea:"
+msgstr "&Korkeus:"
 
 #: wineconsole.rc:108
 msgid "Window size"
-msgstr ""
+msgstr "Ikkunan koko"
 
 #: wineconsole.rc:109
 msgid "W&idth :"
-msgstr ""
+msgstr "Leveys:"
 
 #: wineconsole.rc:112
 #, fuzzy
@@ -13016,16 +13023,16 @@ msgstr ""
 
 #: wineconsole.rc:129
 msgid "Modify only current session"
-msgstr ""
+msgstr "Muokkaa vain nykyistä istuntoa"
 
 #: wineconsole.rc:26
 #, fuzzy
 msgid "Set &Defaults"
-msgstr "Oletus"
+msgstr "Aseta oletus"
 
 #: wineconsole.rc:28
 msgid "&Mark"
-msgstr ""
+msgstr "&Merkitse"
 
 #: wineconsole.rc:31
 #, fuzzy
@@ -13044,11 +13051,11 @@ msgstr "&Etsi"
 
 #: wineconsole.rc:36
 msgid "Setup - Default settings"
-msgstr ""
+msgstr "Asetukset - Oletusasetukset"
 
 #: wineconsole.rc:37
 msgid "Setup - Current settings"
-msgstr ""
+msgstr "Asetukset - Nykyiset asetukset"
 
 #: wineconsole.rc:38
 #, fuzzy
@@ -13057,31 +13064,31 @@ msgstr "Valinnat"
 
 #: wineconsole.rc:39
 msgid "Screen buffer size must be greater or equal to the window's one"
-msgstr ""
+msgstr "Näytön puskurin koon on oltava isompi tai yhtä suuri kuin ikkunankin"
 
 #: wineconsole.rc:34
 msgid "Each character is %1!u! pixels wide on %2!u! pixels high"
-msgstr ""
+msgstr "Jokainen merkki on %1!u! pikseliä leveä ja %2!u! pikseliä korkea"
 
 #: wineconsole.rc:35
 msgid "This is a test"
-msgstr ""
+msgstr "Tämä on testi"
 
 #: wineconsole.rc:41
 msgid "wineconsole: Couldn't parse event id\n"
-msgstr ""
+msgstr "winekonsoli: Ei voida käsitellä tapahtuma-id:tä"
 
 #: wineconsole.rc:42
 msgid "wineconsole: Invalid backend\n"
-msgstr ""
+msgstr "wineconsole: Virheelllinen muoto\n"
 
 #: wineconsole.rc:43
 msgid "wineconsole: Unrecognized command line option\n"
-msgstr ""
+msgstr "wineconsole: Tuntematon komentoriviasetus\n"
 
 #: wineconsole.rc:44
 msgid "Starts a program in a Wine console\n"
-msgstr ""
+msgstr "Käynnistää ohjelman Winen konsolissa\n"
 
 #: wineconsole.rc:45
 msgid ""
@@ -13095,6 +13102,7 @@ msgid ""
 "Usage:\n"
 "  wineconsole [options] <command>\n"
 "\n"
+
 "Options:\n"
 msgstr ""
 
@@ -13129,6 +13137,8 @@ msgid ""
 "The program %s has encountered a serious problem and needs to close. We are "
 "sorry for the inconvenience."
 msgstr ""
+"Ohjelma %s on kohdannut vakavan virheen ja ko. sovellus täytyy sulkea. Pahoittelemme "
+"mahdollista haittaa."
 
 #: winedbg.rc:53
 msgid ""
@@ -13139,10 +13149,16 @@ msgid ""
 "If this problem is not present under Windows and has not been reported yet, "
 "you can <a href=\"http://wiki.winehq.org/Bugs\">file a bug report</a>."
 msgstr ""
+"Tämä saattaa olla seurausta virheestä itse ohjelmassa tai puutteesta Winessä. Voit "
+"tarkastaa <a href=\"http://appdb.winehq.org\">Ohjelmatietokannan "
+"(englanniksi)</a> kyseiselle ohjelmalle vihjeitä varten.\n"
+"\n"
+"Jos tätä ongelmaa ei esiinny Windowsissa, ja siitä ei ole vielä bugiraporttia, "
+"voit tehdä <a href=\"http://wiki.winehq.org/Bugs\">sellaisen</a>."
 
 #: winedbg.rc:35
 msgid "Wine program crash"
-msgstr ""
+msgstr "Wine-ohjelma"
 
 #: winedbg.rc:36
 msgid "Internal errors - invalid parameters received"
@@ -13338,15 +13354,15 @@ msgstr "Version tiedot"
 
 #: winefile.rc:93
 msgid "Applying font settings"
-msgstr ""
+msgstr "Vahvistetaan fonttiasetukset"
 
 #: winefile.rc:94
 msgid "Error while selecting new font."
-msgstr ""
+msgstr "Virhe valittaessa uutta fonttia."
 
 #: winefile.rc:99
 msgid "Wine File Manager"
-msgstr ""
+msgstr "Winen tiedostomanageri"
 
 #: winefile.rc:101
 msgid "root fs"
