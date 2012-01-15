@@ -2923,7 +2923,7 @@ msgstr ""
 
 #: cryptui.rc:171
 msgid "The passwords do not match."
-msgstr ""
+msgstr "Salasanat eivät täsmää."
 
 #: cryptui.rc:172
 msgid "Note: The private key for this certificate could not be opened."
@@ -2956,17 +2956,17 @@ msgstr "&Aseta..."
 
 #: dinput.rc:45
 msgid "Reset"
-msgstr ""
+msgstr "Tyhjennä"
 
 #: dinput.rc:48
 #, fuzzy
 msgid "Player"
-msgstr "&Toista"
+msgstr "&Toistin"
 
 #: dinput.rc:49
 #, fuzzy
 msgid "Device"
-msgstr "De&vice:"
+msgstr "Lähde"
 
 #: dinput.rc:50
 #, fuzzy
@@ -2975,11 +2975,11 @@ msgstr "Sijainti"
 
 #: dinput.rc:51
 msgid "Mapping"
-msgstr ""
+msgstr "Kartta"
 
 #: dinput.rc:53
 msgid "Show Assigned First"
-msgstr ""
+msgstr "Näytä määritelty ensin"
 
 #: dinput.rc:34
 #, fuzzy
@@ -2988,11 +2988,11 @@ msgstr "Sijainti"
 
 #: dinput.rc:35
 msgid "Object"
-msgstr ""
+msgstr "objekti"
 
 #: dxdiagn.rc:25
 msgid "Regional Setting"
-msgstr ""
+msgstr "Maa-asetukset"
 
 #: dxdiagn.rc:26
 msgid "%1!u!MB used, %2!u!MB available"
@@ -3000,40 +3000,40 @@ msgstr ""
 
 #: gdi32.rc:25
 msgid "Western"
-msgstr ""
+msgstr "länsi"
 
 #: gdi32.rc:26
 msgid "Central European"
-msgstr ""
+msgstr "keskieurooppalainen"
 
 #: gdi32.rc:27
 msgid "Cyrillic"
-msgstr ""
+msgstr "kyrillinen"
 
 #: gdi32.rc:28
 #, fuzzy
 msgid "Greek"
-msgstr "Vihreä"
+msgstr "kreikkalainen"
 
 #: gdi32.rc:29
 msgid "Turkish"
-msgstr ""
+msgstr "turkkilainen"
 
 #: gdi32.rc:30
 msgid "Hebrew"
-msgstr ""
+msgstr "heprealainen"
 
 #: gdi32.rc:31
 msgid "Arabic"
-msgstr ""
+msgstr "arabialainen"
 
 #: gdi32.rc:32
 msgid "Baltic"
-msgstr ""
+msgstr "baltialainen"
 
 #: gdi32.rc:33
 msgid "Vietnamese"
-msgstr ""
+msgstr "vietnamilainen"
 
 #: gdi32.rc:34
 msgid "Thai"
@@ -3061,7 +3061,7 @@ msgstr ""
 
 #: gdi32.rc:40
 msgid "Symbol"
-msgstr ""
+msgstr "Symboli"
 
 #: gdi32.rc:41
 msgid "OEM/DOS"
@@ -3070,36 +3070,36 @@ msgstr ""
 #: gphoto2.rc:27
 #, fuzzy
 msgid "Files on Camera"
-msgstr "&Tiedosto"
+msgstr "Kameran tiedostot"
 
 #: gphoto2.rc:31
 msgid "Import Selected"
-msgstr ""
+msgstr "Tuo valitut"
 
 #: gphoto2.rc:32
 #, fuzzy
 msgid "Preview"
-msgstr "Tulosta &Kuva..."
+msgstr "Esikatsele"
 
 #: gphoto2.rc:33
 msgid "Import All"
-msgstr ""
+msgstr "Tuo kaikki"
 
 #: gphoto2.rc:34
 msgid "Skip This Dialog"
-msgstr ""
+msgstr "Ohita tämä dialogi"
 
 #: gphoto2.rc:35
 msgid "Exit"
-msgstr ""
+msgstr "Poistu"
 
 #: gphoto2.rc:40
 msgid "Transferring"
-msgstr ""
+msgstr "Siirretään"
 
 #: gphoto2.rc:43
 msgid "Transferring... Please Wait"
-msgstr ""
+msgstr "Siirretään... Odota hetki"
 
 #: gphoto2.rc:48
 #, fuzzy
@@ -3108,11 +3108,11 @@ msgstr "Lähiverkkoyhteys"
 
 #: gphoto2.rc:52
 msgid "Connecting to camera... Please Wait"
-msgstr ""
+msgstr "Yhdistetään kameraan... Odota hetki"
 
 #: hhctrl.rc:56
 msgid "S&ync"
-msgstr ""
+msgstr "S&ynkronoi"
 
 #: hhctrl.rc:57 shdoclc.rc:38 winhlp32.rc:86
 msgid "&Back"
@@ -3170,11 +3170,11 @@ msgstr "S&uosikit"
 
 #: hhctrl.rc:33
 msgid "Hide &Tabs"
-msgstr ""
+msgstr "Piilota tabit"
 
 #: hhctrl.rc:34
 msgid "Show &Tabs"
-msgstr ""
+msgstr "Näytä tabit"
 
 #: hhctrl.rc:39
 msgid "Show"
@@ -3221,7 +3221,7 @@ msgstr "Seuraava"
 
 #: iccvid.rc:25 iccvid.rc:26
 msgid "Cinepak Video codec"
-msgstr ""
+msgstr "Cinepak Video -koodekki"
 
 #: ieframe.rc:25 shell32.rc:111 notepad.rc:26 oleview.rc:27 oleview.rc:77
 #: progman.rc:29 taskmgr.rc:35 view.rc:28 winefile.rc:25 winhlp32.rc:28
@@ -3236,7 +3236,7 @@ msgstr "&Uusi\tF2"
 
 #: ieframe.rc:29 winefile.rc:76
 msgid "&Window"
-msgstr ""
+msgstr "&Ikkuna"
 
 #: ieframe.rc:31 view.rc:30 winhlp32.rc:29
 #, fuzzy
@@ -3254,7 +3254,7 @@ msgstr "Talleta &nimellä..."
 #: ieframe.rc:35
 #, fuzzy
 msgid "Print &format..."
-msgstr "Tulosta"
+msgstr "Tulosta formaatissa"
 
 #: ieframe.rc:36
 #, fuzzy
@@ -3264,19 +3264,19 @@ msgstr "Tulosta"
 #: ieframe.rc:37 wordpad.rc:34
 #, fuzzy
 msgid "Print previe&w"
-msgstr "Tulosta &Kuva..."
+msgstr "Esikatselu"
 
 #: ieframe.rc:44
 msgid "&Toolbars"
-msgstr ""
+msgstr "Työkalupalkit"
 
 #: ieframe.rc:46
 msgid "&Standard bar"
-msgstr ""
+msgstr "Peruspalkki"
 
 #: ieframe.rc:47
 msgid "&Address bar"
-msgstr ""
+msgstr "&Osoitepalkki"
 
 #: ieframe.rc:50 regedit.rc:71
 #, fuzzy
@@ -3290,7 +3290,7 @@ msgstr "Lis&ää Suosikkeihin..."
 
 #: ieframe.rc:57
 msgid "&About Internet Explorer"
-msgstr ""
+msgstr "&Tietoja Internet Explorerista"
 
 #: ieframe.rc:87
 #, fuzzy
@@ -3299,7 +3299,7 @@ msgstr "&Avaa Linkki"
 
 #: ieframe.rc:90
 msgid "Specify the URL you wish to open in Internet Explorer"
-msgstr ""
+msgstr "Syötä osoite, jonka haluat avattavan"
 
 #: ieframe.rc:91
 #, fuzzy
@@ -3315,11 +3315,11 @@ msgstr "Alkuun"
 #: ieframe.rc:68 winhlp32.rc:66
 #, fuzzy
 msgid "Print..."
-msgstr "Tulosta"
+msgstr "Tulosta..."
 
 #: ieframe.rc:73
 msgid "Address"
-msgstr ""
+msgstr "Osoite"
 
 #: ieframe.rc:78
 #, fuzzy
@@ -3328,12 +3328,12 @@ msgstr "Ominaisuudet"
 
 #: ieframe.rc:79
 msgid "Start downloading %s"
-msgstr ""
+msgstr "Aloita lataaminen %s"
 
 #: ieframe.rc:80
 #, fuzzy
 msgid "Downloading %s"
-msgstr "Lataukset"
+msgstr "Ladataan %s"
 
 #: ieframe.rc:81
 #, fuzzy
@@ -3347,11 +3347,11 @@ msgstr "Alkuun"
 
 #: inetcpl.rc:47
 msgid "You can choose the address that will be used as your home page."
-msgstr ""
+msgstr "Voit valita aloitussivun osoitteen."
 
 #: inetcpl.rc:50
 msgid "&Current page"
-msgstr ""
+msgstr "&Nykyinen sivu"
 
 #: inetcpl.rc:51
 #, fuzzy
@@ -3364,19 +3364,19 @@ msgstr ""
 
 #: inetcpl.rc:52
 msgid "&Blank page"
-msgstr ""
+msgstr "&Tyhjä sivu"
 
 #: inetcpl.rc:53
 msgid "Browsing history"
-msgstr ""
+msgstr "Selaushistoria"
 
 #: inetcpl.rc:54
 msgid "You can delete cached pages, cookies and other data."
-msgstr ""
+msgstr "Voit poistaa tallennetut sivut, evästeet ja muut tiedot."
 
 #: inetcpl.rc:56
 msgid "Delete &files..."
-msgstr ""
+msgstr "&Poista tiedostot..."
 
 #: inetcpl.rc:57
 #, fuzzy
@@ -3389,7 +3389,7 @@ msgstr ""
 
 #: inetcpl.rc:65
 msgid "Delete browsing history"
-msgstr ""
+msgstr "Poista selaushistoria"
 
 #: inetcpl.rc:68
 msgid ""
@@ -3429,7 +3429,7 @@ msgstr "P&oista"
 
 #: inetcpl.rc:87 winefile.rc:118
 msgid "Security"
-msgstr ""
+msgstr "Turvallisuus"
 
 #: inetcpl.rc:109
 msgid ""
@@ -3444,19 +3444,19 @@ msgstr "S&olun Ominaisuudet"
 
 #: inetcpl.rc:112
 msgid "Publishers..."
-msgstr ""
+msgstr "Julkaisijat..."
 
 #: inetcpl.rc:28
 msgid "Internet Settings"
-msgstr ""
+msgstr "Internetasetukset"
 
 #: inetcpl.rc:29
 msgid "Configure Wine Internet Browser and related settings"
-msgstr ""
+msgstr "Aseta Wine Internet Browser ja vastaavat asetukset"
 
 #: inetcpl.rc:30
 msgid "Security settings for zone: "
-msgstr ""
+msgstr "Turvallisuusasetukset alueelle:"
 
 #: inetcpl.rc:31
 #, fuzzy
@@ -3465,43 +3465,43 @@ msgstr "Räätälöi"
 
 #: inetcpl.rc:32
 msgid "Very Low"
-msgstr ""
+msgstr "Hyvin matala"
 
 #: inetcpl.rc:33
 msgid "Low"
-msgstr ""
+msgstr "Matala"
 
 #: inetcpl.rc:34
 msgid "Medium"
-msgstr ""
+msgstr "Normaali"
 
 #: inetcpl.rc:35
 msgid "Increased"
-msgstr ""
+msgstr "Korkeampi"
 
 #: inetcpl.rc:36
 msgid "High"
-msgstr ""
+msgstr "Korkea"
 
 #: jscript.rc:25
 msgid "Error converting object to primitive type"
-msgstr ""
+msgstr "Virhe muutettaessa objektia"
 
 #: jscript.rc:26
 msgid "Invalid procedure call or argument"
-msgstr ""
+msgstr "Virheellinen proseduuri tai argumentti"
 
 #: jscript.rc:27
 msgid "Subscript out of range"
-msgstr ""
+msgstr "Alaindeksin alue virheellinen"
 
 #: jscript.rc:28
 msgid "Object required"
-msgstr ""
+msgstr "Objekti vaaditaan"
 
 #: jscript.rc:29
 msgid "Automation server can't create object"
-msgstr ""
+msgstr "Automaatiopalvelin ei voi luoda objektia"
 
 #: jscript.rc:30
 msgid "Object doesn't support this property or method"
@@ -6648,55 +6648,55 @@ msgstr "Ei saatavilla; "
 
 #: winerror.mc:3686
 msgid "The file cannot be accessed\n"
-msgstr ""
+msgstr "Tiedostoon ei ole pääsyä\n"
 
 #: winerror.mc:3691
 #, fuzzy
 msgid "The filename cannot be resolved\n"
-msgstr "'%s' ei löydy."
+msgstr "Tiedostonimeä ei voi ratkaista\n"
 
 #: winerror.mc:3696
 msgid "RPC entry type mismatch\n"
-msgstr ""
+msgstr "RPC-kirjaustyyppi ei täsmää\n"
 
 #: winerror.mc:3701
 msgid "Not all objects could be exported\n"
-msgstr ""
+msgstr "Kaikkia objekteja ei voi tuoda\n"
 
 #: winerror.mc:3706
 #, fuzzy
 msgid "The interface could not be exported\n"
-msgstr "'%s' ei löydy."
+msgstr "Käyttölittymää ei voi tuoda"
 
 #: winerror.mc:3711
 #, fuzzy
 msgid "The profile could not be added\n"
-msgstr "'%s' ei löydy."
+msgstr "Profiilia e voi lisätä\n"
 
 #: winerror.mc:3716
 #, fuzzy
 msgid "The profile element could not be added\n"
-msgstr "'%s' ei löydy."
+msgstr "Profiilielementtiä e voi lisätä\n"
 
 #: winerror.mc:3721
 #, fuzzy
 msgid "The profile element could not be removed\n"
-msgstr "'%s' ei löydy."
+msgstr "Profiilielementtiä ei voi poistaa\n"
 
 #: winerror.mc:3726
 #, fuzzy
 msgid "The group element could not be added\n"
-msgstr "'%s' ei löydy."
+msgstr "Ryhmäelementtiä ei voi lisätä\n"
 
 #: winerror.mc:3731
 #, fuzzy
 msgid "The group element could not be removed\n"
-msgstr "'%s' ei löydy."
+msgstr "Ryhmäelementtiä ei voi poistaa\n"
 
 #: winerror.mc:3736
 #, fuzzy
 msgid "The username could not be found\n"
-msgstr "'%s' ei löydy."
+msgstr "Käyttäjätunnusta ei löydy\n"
 
 #: localspl.rc:28 localui.rc:28 winspool.rc:27
 msgid "Local Port"
@@ -6704,7 +6704,7 @@ msgstr "Paikallinen Portti"
 
 #: localspl.rc:29
 msgid "Local Monitor"
-msgstr ""
+msgstr "Paikallinen"
 
 #: localui.rc:36
 #, fuzzy
@@ -6713,39 +6713,39 @@ msgstr "Paikallinen Portti"
 
 #: localui.rc:39
 msgid "&Enter the port name to add:"
-msgstr ""
+msgstr "Syötä uusi portin nimi:"
 
 #: localui.rc:48
 msgid "Configure LPT Port"
-msgstr ""
+msgstr "Aseta LPT-portti"
 
 #: localui.rc:51
 msgid "Timeout (seconds)"
-msgstr ""
+msgstr "Aikakatkaisu (sekuntia)"
 
 #: localui.rc:52
 msgid "&Transmission Retry:"
-msgstr ""
+msgstr "Lähetyksen uudelleenyritys:"
 
 #: localui.rc:29
 msgid "'%s' is not a valid port name"
-msgstr ""
+msgstr "'%s' ei ole hyväksyttävä portin nimi"
 
 #: localui.rc:30
 msgid "Port %s already exists"
-msgstr ""
+msgstr "Portti %s on jo olemassa"
 
 #: localui.rc:31
 msgid "This port has no options to configure"
-msgstr ""
+msgstr "Tälle portille ei ole asetuksia"
 
 #: mapi32.rc:28
 msgid "Mail sending failed as you do not have a MAPI mail client installed."
-msgstr ""
+msgstr "Sähköpostin lähettämiseen ei ole MAPI-asiakassovellusta."
 
 #: mapi32.rc:29
 msgid "Send Mail"
-msgstr ""
+msgstr "Lähetä sähköposti"
 
 #: mpr.rc:32 wininet.rc:34
 msgid "Enter Network Password"
@@ -6769,16 +6769,16 @@ msgstr "Salasana"
 
 #: mpr.rc:44
 msgid "&Save this password (Insecure)"
-msgstr ""
+msgstr "&Tallenna salasana (turvaton)"
 
 #: mpr.rc:27
 msgid "Entire Network"
-msgstr ""
+msgstr "Koko lähiverkko"
 
 #: msacm32.rc:27
 #, fuzzy
 msgid "Sound Selection"
-msgstr "Vahvista tiedoston tuhoaminen"
+msgstr "Äänivalinta"
 
 #: msacm32.rc:36
 #, fuzzy
@@ -6788,7 +6788,7 @@ msgstr "Talleta &nimellä..."
 #: msacm32.rc:39
 #, fuzzy
 msgid "&Format:"
-msgstr "&Eteenpäin"
+msgstr "&Muoto:"
 
 #: msacm32.rc:44
 #, fuzzy
@@ -6797,7 +6797,7 @@ msgstr "Ominaisuudet"
 
 #: mshtml.rc:37
 msgid "Hyperlink"
-msgstr ""
+msgstr "Hyperlinkki"
 
 #: mshtml.rc:40
 #, fuzzy
@@ -6814,7 +6814,7 @@ msgstr "&Tyyppi:"
 
 #: mshtml.rc:43
 msgid "&URL:"
-msgstr ""
+msgstr "Osoite:"
 
 #: mshtml.rc:31
 msgid "HTML rendering is currently disabled."
@@ -6826,11 +6826,11 @@ msgstr "HTML Dokumentti"
 
 #: mshtml.rc:26
 msgid "Downloading from %s..."
-msgstr ""
+msgstr "Ladataan kohteesta %s..."
 
 #: mshtml.rc:25
 msgid "Done"
-msgstr ""
+msgstr "Valmis"
 
 #: msi.rc:27
 msgid ""
@@ -6933,7 +6933,7 @@ msgstr "Valitse kansio, jossa on %s"
 
 #: msrle32.rc:28
 msgid "Wine MS-RLE video codec"
-msgstr ""
+msgstr "Wine MS-RLE -videokoodekki"
 
 #: msrle32.rc:29
 msgid ""
@@ -6943,11 +6943,11 @@ msgstr ""
 
 #: msvfw32.rc:30
 msgid "Video Compression"
-msgstr ""
+msgstr "Videonpakkaus"
 
 #: msvfw32.rc:36
 msgid "&Compressor:"
-msgstr ""
+msgstr "Pak&kaaja:"
 
 #: msvfw32.rc:39
 #, fuzzy
@@ -6961,7 +6961,7 @@ msgstr "Tietoja"
 
 #: msvfw32.rc:44
 msgid "Compression &Quality:"
-msgstr ""
+msgstr "&Pakkauslaatu:"
 
 #: msvfw32.rc:46
 msgid "&Key Frame Every"
@@ -6970,7 +6970,7 @@ msgstr ""
 #: msvfw32.rc:50
 #, fuzzy
 msgid "&Data Rate"
-msgstr "&Päivämäärä"
+msgstr "&Datavirta"
 
 #: msvfw32.rc:52
 msgid "kB/s"
@@ -6978,41 +6978,41 @@ msgstr ""
 
 #: msvfw32.rc:25
 msgid "Full Frames (Uncompressed)"
-msgstr ""
+msgstr "Täydet fraamit (pakkaamaton)"
 
 #: msvidc32.rc:26
 msgid "Wine Video 1 video codec"
-msgstr ""
+msgstr "Wine Video 1 -videokoodekki"
 
 #: oleacc.rc:27
 msgid "unknown object"
-msgstr ""
+msgstr "tuntematon objekti"
 
 #: oleacc.rc:28
 #, fuzzy
 msgid "title bar"
-msgstr "&Ilman otsikkopalkkia"
+msgstr "otsikkopalkki"
 
 #: oleacc.rc:29
 msgid "menu bar"
-msgstr ""
+msgstr "valikkopalkki"
 
 #: oleacc.rc:30
 #, fuzzy
 msgid "scroll bar"
-msgstr "Vieritä Tänne"
+msgstr "vieritä tänne"
 
 #: oleacc.rc:31
 msgid "grip"
-msgstr ""
+msgstr "ruudukko"
 
 #: oleacc.rc:32
 msgid "sound"
-msgstr ""
+msgstr "ääni"
 
 #: oleacc.rc:33
 msgid "cursor"
-msgstr ""
+msgstr "kursori"
 
 #: oleacc.rc:34
 msgid "caret"
@@ -7020,33 +7020,33 @@ msgstr ""
 
 #: oleacc.rc:35
 msgid "alert"
-msgstr ""
+msgstr "varoitus"
 
 #: oleacc.rc:36
 #, fuzzy
 msgid "window"
-msgstr "A&vaa Uudessa Ikkunassa"
+msgstr "ikkuna"
 
 #: oleacc.rc:37
 msgid "client"
-msgstr ""
+msgstr "asiakas"
 
 #: oleacc.rc:38
 msgid "popup menu"
-msgstr ""
+msgstr "popup-valikko"
 
 #: oleacc.rc:39
 msgid "menu item"
-msgstr ""
+msgstr "valikkokohde"
 
 #: oleacc.rc:40
 msgid "tool tip"
-msgstr ""
+msgstr "vihje"
 
 #: oleacc.rc:41
 #, fuzzy
 msgid "application"
-msgstr "Valinnat"
+msgstr "sovellus"
 
 #: oleacc.rc:42
 #, fuzzy
@@ -7055,35 +7055,35 @@ msgstr "HTML Dokumentti"
 
 #: oleacc.rc:43
 msgid "pane"
-msgstr ""
+msgstr "paneeli"
 
 #: oleacc.rc:44
 msgid "chart"
-msgstr ""
+msgstr "kaavio"
 
 #: oleacc.rc:45
 msgid "dialog"
-msgstr ""
+msgstr "dialogi"
 
 #: oleacc.rc:46
 msgid "border"
-msgstr ""
+msgstr "raja"
 
 #: oleacc.rc:47
 msgid "grouping"
-msgstr ""
+msgstr "ryhmä"
 
 #: oleacc.rc:48
 msgid "separator"
-msgstr ""
+msgstr "erotin"
 
 #: oleacc.rc:49
 msgid "tool bar"
-msgstr ""
+msgstr "työkalupalkki"
 
 #: oleacc.rc:50
 msgid "status bar"
-msgstr ""
+msgstr "tilapalkki"
 
 #: oleacc.rc:51
 #, fuzzy
@@ -7105,15 +7105,15 @@ msgstr "&Palsta"
 
 #: oleacc.rc:55
 msgid "row"
-msgstr ""
+msgstr "rivi"
 
 #: oleacc.rc:56
 msgid "cell"
-msgstr ""
+msgstr "solu"
 
 #: oleacc.rc:57
 msgid "link"
-msgstr ""
+msgstr "linki"
 
 #: oleacc.rc:58
 msgid "help balloon"
@@ -7121,11 +7121,11 @@ msgstr ""
 
 #: oleacc.rc:59
 msgid "character"
-msgstr ""
+msgstr "merkki"
 
 #: oleacc.rc:60
 msgid "list"
-msgstr ""
+msgstr "lista"
 
 #: oleacc.rc:61
 msgid "list item"
@@ -7149,47 +7149,47 @@ msgstr ""
 
 #: oleacc.rc:66
 msgid "indicator"
-msgstr ""
+msgstr "ilmaisin"
 
 #: oleacc.rc:67
 msgid "graphic"
-msgstr ""
+msgstr "graafi"
 
 #: oleacc.rc:68
 msgid "static text"
-msgstr ""
+msgstr "staattinen teksti"
 
 #: oleacc.rc:69
 msgid "text"
-msgstr ""
+msgstr "teksti"
 
 #: oleacc.rc:70
 msgid "push button"
-msgstr ""
+msgstr "painike"
 
 #: oleacc.rc:71
 msgid "check button"
-msgstr ""
+msgstr "valintapainike"
 
 #: oleacc.rc:72
 msgid "radio button"
-msgstr ""
+msgstr "radiopainike"
 
 #: oleacc.rc:73
 msgid "combo box"
-msgstr ""
+msgstr "yhdistelmälaatikko"
 
 #: oleacc.rc:74
 msgid "drop down"
-msgstr ""
+msgstr "hyppää alas"
 
 #: oleacc.rc:75
 msgid "progress bar"
-msgstr ""
+msgstr "edistyspalkki"
 
 #: oleacc.rc:76
 msgid "dial"
-msgstr ""
+msgstr "säädin"
 
 #: oleacc.rc:77
 msgid "hot key field"
@@ -7197,15 +7197,15 @@ msgstr ""
 
 #: oleacc.rc:78
 msgid "slider"
-msgstr ""
+msgstr "liukukytkin"
 
 #: oleacc.rc:79
 msgid "spin box"
-msgstr ""
+msgstr "pyörityslaatikko"
 
 #: oleacc.rc:80
 msgid "diagram"
-msgstr ""
+msgstr "diagrammi"
 
 #: oleacc.rc:81
 #, fuzzy
@@ -7218,27 +7218,27 @@ msgstr ""
 
 #: oleacc.rc:82
 msgid "equation"
-msgstr ""
+msgstr "yhtälö"
 
 #: oleacc.rc:83
 msgid "drop down button"
-msgstr ""
+msgstr "hyppää alas -painike"
 
 #: oleacc.rc:84
 msgid "menu button"
-msgstr ""
+msgstr "valikkopainike"
 
 #: oleacc.rc:85
 msgid "grid drop down button"
-msgstr ""
+msgstr "ruudukko-hyppää alas -painike"
 
 #: oleacc.rc:86
 msgid "white space"
-msgstr ""
+msgstr "valkoinen tila"
 
 #: oleacc.rc:87
 msgid "page tab list"
-msgstr ""
+msgstr "sivulista"
 
 #: oleacc.rc:88
 #, fuzzy
@@ -7247,43 +7247,43 @@ msgstr "Kello"
 
 #: oleacc.rc:89
 msgid "split button"
-msgstr ""
+msgstr "hajautus-painike"
 
 #: oleacc.rc:90 ipconfig.rc:33
 msgid "IP address"
-msgstr ""
+msgstr "IP-osoite"
 
 #: oleacc.rc:91
 msgid "outline button"
-msgstr ""
+msgstr "ulkolinjapainike"
 
 #: oleaut32.rc:27 oleview.rc:144
 msgid "True"
-msgstr ""
+msgstr "Tosi"
 
 #: oleaut32.rc:28 oleview.rc:145
 msgid "False"
-msgstr ""
+msgstr "Epätosi"
 
 #: oleaut32.rc:31
 msgid "On"
-msgstr ""
+msgstr "Päällä"
 
 #: oleaut32.rc:32
 msgid "Off"
-msgstr ""
+msgstr "Pois"
 
 #: oledlg.rc:48
 msgid "Insert Object"
-msgstr ""
+msgstr "Liitä objekti"
 
 #: oledlg.rc:54
 msgid "Object Type:"
-msgstr ""
+msgstr "Objektin tyyppi"
 
 #: oledlg.rc:57 oledlg.rc:95
 msgid "Result"
-msgstr ""
+msgstr "Tulos"
 
 #: oledlg.rc:58
 #, fuzzy
@@ -7307,7 +7307,7 @@ msgstr "Hallinta"
 
 #: oledlg.rc:66
 msgid "Display As Icon"
-msgstr ""
+msgstr "Näytä ikonina"
 
 #: oledlg.rc:68 setupapi.rc:58
 #, fuzzy
@@ -7317,11 +7317,11 @@ msgstr "&Selaa..."
 #: oledlg.rc:69
 #, fuzzy
 msgid "File:"
-msgstr "Tiedosto"
+msgstr "Tiedosto:"
 
 #: oledlg.rc:75
 msgid "Paste Special"
-msgstr ""
+msgstr "Liitä erikoinen"
 
 #: oledlg.rc:78 setupapi.rc:40
 msgid "Source:"
@@ -7339,11 +7339,11 @@ msgstr "Liitä linkiksi"
 
 #: oledlg.rc:83
 msgid "&As:"
-msgstr ""
+msgstr "Nimellä:"
 
 #: oledlg.rc:90
 msgid "&Display As Icon"
-msgstr ""
+msgstr "Näytä ikonina"
 
 #: oledlg.rc:92
 #, fuzzy
@@ -7352,7 +7352,7 @@ msgstr "&Järjestä kuvakkeet"
 
 #: oledlg.rc:25
 msgid "Insert a new %s object into your document"
-msgstr ""
+msgstr "Liittää uuden %s -objektin dokumenttiisi"
 
 #: oledlg.rc:26
 msgid ""
@@ -7377,7 +7377,7 @@ msgstr "Hallinta"
 
 #: oledlg.rc:34
 msgid "Inserts the contents of the clipboard into your document as %s."
-msgstr ""
+msgstr "Liittää leikepöydän sisällän dokumenttiisi %s :nä."
 
 #: oledlg.rc:35
 msgid ""
@@ -7414,11 +7414,11 @@ msgstr ""
 
 #: oledlg.rc:40
 msgid "Inserts the contents of the clipboard into your document."
-msgstr ""
+msgstr "Liittää leikepöydän sisällön dokumenttiisi."
 
 #: oledlg.rc:41
 msgid "Unknown Type"
-msgstr ""
+msgstr "Tuntematon tyyppi"
 
 #: oledlg.rc:42
 #, fuzzy
@@ -7427,7 +7427,7 @@ msgstr "Nä&ytä Lähde"
 
 #: oledlg.rc:43
 msgid "the program which created it"
-msgstr ""
+msgstr "ohjelma, joka loi sen"
 
 #: sane.rc:41
 msgid "Scanning"
@@ -7508,23 +7508,23 @@ msgstr ""
 
 #: setupapi.rc:54
 msgid "Copy manufacturer's files from:"
-msgstr ""
+msgstr "Kopioi valmistajan tiedostot:"
 
 #: setupapi.rc:28
 msgid "The file '%1' on %2 is needed"
-msgstr ""
+msgstr "Tiedosto '%1' kohteesta %2 tarvitaan"
 
 #: setupapi.rc:29 ipconfig.rc:31
 msgid "Unknown"
-msgstr ""
+msgstr "Tuntematon"
 
 #: setupapi.rc:30
 msgid "Copy files from:"
-msgstr ""
+msgstr "Kopioi tiedostot:"
 
 #: setupapi.rc:31
 msgid "Type the path where the file is located, and then click OK."
-msgstr ""
+msgstr "Syötä polku, jossa tiedostot ovat, ja klikkaa OK."
 
 #: shdoclc.rc:39
 msgid "F&orward"
@@ -7719,11 +7719,11 @@ msgstr "Al&kuun"
 
 #: shdoclc.rc:196
 msgid "Trace Tags"
-msgstr "Trace Tags"
+msgstr "Jäljitä tagit"
 
 #: shdoclc.rc:197
 msgid "Resource Failures"
-msgstr ""
+msgstr "Resurssivirheet"
 
 #: shdoclc.rc:198
 msgid "Dump Tracking Info"
@@ -7731,11 +7731,11 @@ msgstr "Dump Tracking Info"
 
 #: shdoclc.rc:199
 msgid "Debug Break"
-msgstr ""
+msgstr "Debug-break"
 
 #: shdoclc.rc:200
 msgid "Debug View"
-msgstr ""
+msgstr "Debuggausnäkymä"
 
 #: shdoclc.rc:201
 msgid "Dump Tree"
@@ -7759,23 +7759,23 @@ msgstr "Dump LayoutRects"
 
 #: shdoclc.rc:206
 msgid "Memory Monitor"
-msgstr ""
+msgstr "Muistimonitori"
 
 #: shdoclc.rc:207
 msgid "Performance Meters"
-msgstr ""
+msgstr "Suorituskykymittarit"
 
 #: shdoclc.rc:208
 msgid "Save HTML"
-msgstr ""
+msgstr "Tallenna HTML"
 
 #: shdoclc.rc:210
 msgid "&Browse View"
-msgstr ""
+msgstr "&Selausnäkymä"
 
 #: shdoclc.rc:211
 msgid "&Edit View"
-msgstr ""
+msgstr "&Muokkausnäkymä"
 
 #: shdoclc.rc:216 shdoclc.rc:230
 msgid "Scroll Here"
@@ -7913,7 +7913,7 @@ msgstr "&Palauta"
 
 #: shell32.rc:83
 msgid "&Erase"
-msgstr ""
+msgstr "&Pyyhi"
 
 #: shell32.rc:95
 msgid "E&xplore"
@@ -9932,7 +9932,7 @@ msgstr ""
 
 #: dxdiag.rc:27
 msgid "DirectX Diagnostic Tool"
-msgstr ""
+msgstr "DirectX-diagnostiikkatyökalu"
 
 #: dxdiag.rc:28
 msgid "Usage: dxdiag [/whql:off | /whql:on] [/t filename | /x filename]"
@@ -9946,7 +9946,7 @@ msgstr "&Selaa"
 #: explorer.rc:29
 #, fuzzy
 msgid "Location:"
-msgstr "Sijainti"
+msgstr "Sijainti:"
 
 #: hostname.rc:27
 msgid "Usage: hostname\n"
@@ -9968,7 +9968,7 @@ msgstr ""
 
 #: ipconfig.rc:28
 msgid "Error: Unknown or invalid command line parameters specified\n"
-msgstr ""
+msgstr "Virhe: Tuntematon tai virheellinen komentoparametri\n"
 
 #: ipconfig.rc:29
 msgid "%1 adapter %2\n"
@@ -9976,11 +9976,11 @@ msgstr ""
 
 #: ipconfig.rc:30
 msgid "Ethernet"
-msgstr ""
+msgstr "Ethernet"
 
 #: ipconfig.rc:32
 msgid "Connection-specific DNS suffix"
-msgstr ""
+msgstr "Yhteyskohtainen DNS"
 
 #: ipconfig.rc:34
 msgid "Hostname"
@@ -9988,11 +9988,11 @@ msgstr "Isäntä"
 
 #: ipconfig.rc:35
 msgid "Node type"
-msgstr ""
+msgstr "Node-tyyppi"
 
 #: ipconfig.rc:36
 msgid "Broadcast"
-msgstr ""
+msgstr "Laajakaista"
 
 #: ipconfig.rc:37
 msgid "Peer-to-peer"
@@ -10000,27 +10000,27 @@ msgstr ""
 
 #: ipconfig.rc:38
 msgid "Mixed"
-msgstr ""
+msgstr "Sekoitus"
 
 #: ipconfig.rc:39
 msgid "Hybrid"
-msgstr ""
+msgstr "Hybridi"
 
 #: ipconfig.rc:40
 msgid "IP routing enabled"
-msgstr ""
+msgstr "IP-reititys käytössä"
 
 #: ipconfig.rc:42
 msgid "Physical address"
-msgstr ""
+msgstr "Fyysinen osoite"
 
 #: ipconfig.rc:43
 msgid "DHCP enabled"
-msgstr ""
+msgstr "DHCP käytössä"
 
 #: ipconfig.rc:46
 msgid "Default gateway"
-msgstr ""
+msgstr "Oletusyhdyskäytävä"
 
 #: net.rc:27
 msgid ""
@@ -10054,7 +10054,7 @@ msgstr ""
 
 #: net.rc:30
 msgid "Stopping dependent service: %1\n"
-msgstr ""
+msgstr "Lopetetaan itsenäinen palvelu: %1\n"
 
 #: net.rc:31
 msgid "Could not stop service %1\n"
@@ -10062,11 +10062,11 @@ msgstr "Ei voida pysäyttää palvelua %1\n"
 
 #: net.rc:32
 msgid "Could not get handle to service control manager.\n"
-msgstr ""
+msgstr "Ei päästä käsiksi palvelunhallintaan.\n"
 
 #: net.rc:33
 msgid "Could not get handle to service.\n"
-msgstr ""
+msgstr "Palveluun ei pääse käsiksi.\n"
 
 #: net.rc:34
 msgid "The %1 service is starting.\n"
@@ -10079,7 +10079,7 @@ msgstr "Palvelu %1 käynnistettiin onnistuneesti.\n"
 #: net.rc:36
 #, fuzzy
 msgid "The %1 service failed to start.\n"
-msgstr "Tilaa jäljellä"
+msgstr "Palvelu %1 epäonnistui käynnistymään.\n"
 
 #: net.rc:37
 #, fuzzy
@@ -10088,16 +10088,16 @@ msgstr "Tulostimen kansi on auki; "
 
 #: net.rc:38
 msgid "The %1 service was stopped successfully.\n"
-msgstr ""
+msgstr "Palvelu %1 lopetettiin onnistuneesti.\n"
 
 #: net.rc:39
 #, fuzzy
 msgid "The %1 service failed to stop.\n"
-msgstr "Tilaa jäljellä"
+msgstr "Palvelu %1 epäonnstui lopettamaan.\n"
 
 #: net.rc:41
 msgid "There are no entries in the list.\n"
-msgstr ""
+msgstr "Kyselyjä ei ole listassa.\n"
 
 #: net.rc:42
 msgid ""
@@ -11445,7 +11445,7 @@ msgstr "Virhe: Prosessia \"%1\" ei löydy.\n"
 
 #: taskkill.rc:38
 msgid "Error: Unable to enumerate the process list.\n"
-msgstr ""
+msgstr "Virhe: Prosessilistaus epäonnistui.\n"
 
 #: taskkill.rc:39
 msgid "Error: Unable to terminate process \"%1\".\n"
