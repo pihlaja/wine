@@ -15,13 +15,15 @@ msgstr ""
 
 #: appwiz.rc:55
 msgid "Install/Uninstall"
-msgstr ""
+msgstr "Asenna/Poista"
 
 #: appwiz.rc:58
 msgid ""
 "To install a new program from a floppy disk, CD-ROM drive, or your hard "
 "drive, click Install."
 msgstr ""
+"Asentaaksesi uuden ohjelman korpulta, CR:ltä tai kiintolevyltäsi, "
+"klikkaa Asenna."
 
 #: appwiz.rc:59
 #, fuzzy
@@ -34,15 +36,18 @@ msgid ""
 "to modify its installed components, select it from the list and click Change/"
 "Remove."
 msgstr ""
+"Seuraava ohjelmisto voidaan poistaa automaattisesti. Poistaaksesi ohjelman tai "
+"muokataksesi sen asennettuja komponentteja, valitse se listasta ja klikkaa Muuta/"
+"Poista."
 
 #: appwiz.rc:64
 msgid "&Support Info"
-msgstr ""
+msgstr "&Tukitiedot"
 
 #: appwiz.rc:65 regedit.rc:42 regedit.rc:87
 #, fuzzy
 msgid "&Modify..."
-msgstr "Muokattu"
+msgstr "&Muokkaa..."
 
 #: appwiz.rc:66 appwiz.rc:42 cryptui.rc:343 msacm32.rc:37 winecfg.rc:191
 #: winecfg.rc:228 wordpad.rc:245
@@ -78,7 +83,7 @@ msgstr "OK"
 
 #: appwiz.rc:76
 msgid "The following information can be used to get technical support for %s:"
-msgstr ""
+msgstr "Seuraavia tietoja voidaan käyttää tekniseen tukeen kohteelle %s:"
 
 #: appwiz.rc:77
 msgid "Publisher:"
@@ -86,7 +91,7 @@ msgstr "Julkaisija:"
 
 #: appwiz.rc:78 winefile.rc:172
 msgid "Version:"
-msgstr ""
+msgstr "Versio:"
 
 #: appwiz.rc:79
 #, fuzzy
@@ -104,16 +109,16 @@ msgstr ""
 
 #: appwiz.rc:81
 msgid "Support Telephone:"
-msgstr ""
+msgstr "Tuen puhelin:"
 
 #: appwiz.rc:82
 #, fuzzy
 msgid "Readme:"
-msgstr "Valmis"
+msgstr "Lueminut:"
 
 #: appwiz.rc:83
 msgid "Product Updates:"
-msgstr ""
+msgstr "Tuotteen päivitykset:"
 
 #: appwiz.rc:84
 #, fuzzy
@@ -163,7 +168,7 @@ msgstr "Peruuta"
 
 #: appwiz.rc:28
 msgid "Add/Remove Programs"
-msgstr ""
+msgstr "Lisää/Poista sovelluksia"
 
 #: appwiz.rc:29
 msgid ""
@@ -186,7 +191,7 @@ msgstr ""
 
 #: appwiz.rc:33
 msgid "Not specified"
-msgstr ""
+msgstr "Ei asetettu"
 
 #: appwiz.rc:35 shell32.rc:141 shell32.rc:251 regedit.rc:122 winefile.rc:110
 msgid "Name"
@@ -194,19 +199,19 @@ msgstr "Nimi"
 
 #: appwiz.rc:36
 msgid "Publisher"
-msgstr ""
+msgstr "Julkaisija"
 
 #: appwiz.rc:37 cryptui.rc:51
 msgid "Version"
-msgstr ""
+msgstr "Versio"
 
 #: appwiz.rc:38
 msgid "Installation programs"
-msgstr ""
+msgstr "Asennusohjelmat"
 
 #: appwiz.rc:39
 msgid "Programs (*.exe)"
-msgstr ""
+msgstr "Ohjelmat (*.exe)"
 
 #: appwiz.rc:40 avifil32.rc:30 cryptui.rc:80 shell32.rc:196 notepad.rc:73
 #: oleview.rc:101 progman.rc:79 regedit.rc:195 winhlp32.rc:87
@@ -220,21 +225,23 @@ msgstr "Muokattu"
 
 #: appwiz.rc:48
 msgid "Downloading..."
-msgstr ""
+msgstr "Ladataan..."
 
 #: appwiz.rc:49
 msgid "Installing..."
-msgstr ""
+msgstr "Asennetaan..."
 
 #: appwiz.rc:50
 msgid ""
 "Unexpected checksum of downloaded file. Aborting installation of corrupted "
 "file."
 msgstr ""
+"Odottamaton tarkistussumma ladatussa tiedostossa. Asennus keskeytetään korruptoituneen "
+"tiedoston vuoksi."
 
 #: avifil32.rc:39
 msgid "Compress options"
-msgstr ""
+msgstr "Pakkausvalinnat"
 
 #: avifil32.rc:42
 msgid "&Choose a stream:"
@@ -255,12 +262,12 @@ msgstr ""
 
 #: avifil32.rc:48 msvfw32.rc:48
 msgid "frames"
-msgstr ""
+msgstr "ruutua"
 
 #: avifil32.rc:49
 #, fuzzy
 msgid "Current format:"
-msgstr "Tulosta"
+msgstr "Nykyinen formaatti:"
 
 #: avifil32.rc:27
 msgid "Waveform: %s"
@@ -272,32 +279,32 @@ msgstr ""
 
 #: avifil32.rc:29
 msgid "All multimedia files"
-msgstr ""
+msgstr "Kaikki multimediatiedostot"
 
 #: avifil32.rc:31
 msgid "video"
-msgstr ""
+msgstr "video"
 
 #: avifil32.rc:32
 msgid "audio"
-msgstr ""
+msgstr "ääni"
 
 #: avifil32.rc:33
 msgid "Wine AVI-default-filehandler"
-msgstr ""
+msgstr "Winen AVI-oletus-tiedostonkäsittelijä"
 
 #: avifil32.rc:34
 msgid "uncompressed"
-msgstr ""
+msgstr "pakkaamaton"
 
 #: browseui.rc:25
 msgid "Canceling..."
-msgstr ""
+msgstr "Peruutetaan..."
 
 #: comctl32.rc:49 winefile.rc:163
 #, fuzzy
 msgid "Properties for %s"
-msgstr "Ominaisuudet"
+msgstr "Ominaisuudet kohteelle %s"
 
 #: comctl32.rc:54 comdlg32.rc:258
 msgid "&Apply"
@@ -309,33 +316,33 @@ msgstr "Ohje"
 
 #: comctl32.rc:62
 msgid "Wizard"
-msgstr ""
+msgstr "Velho"
 
 #: comctl32.rc:65
 #, fuzzy
 msgid "< &Back"
-msgstr "&Takaisin"
+msgstr "< &Takaisin"
 
 #: comctl32.rc:66
 msgid "&Next >"
-msgstr ""
+msgstr "&Seuraava >"
 
 #: comctl32.rc:67
 msgid "Finish"
-msgstr ""
+msgstr "Lopeta"
 
 #: comctl32.rc:78
 msgid "Customize Toolbar"
-msgstr ""
+msgstr "Muokkaa työkaluapalkkia"
 
 #: comctl32.rc:81 cryptui.rc:348 ieframe.rc:40 oleview.rc:80 oleview.rc:185
 #: oleview.rc:198 oleview.rc:210 taskmgr.rc:139
 msgid "&Close"
-msgstr ""
+msgstr "&Sulje"
 
 #: comctl32.rc:82
 msgid "R&eset"
-msgstr ""
+msgstr "&Tyhjennä"
 
 #: comctl32.rc:83 comdlg32.rc:166 comdlg32.rc:188 comdlg32.rc:259
 #: comdlg32.rc:323 comdlg32.rc:343 comdlg32.rc:355 comdlg32.rc:472
@@ -379,25 +386,25 @@ msgstr "Vieritä Tänne"
 
 #: comctl32.rc:39
 msgid "Separator"
-msgstr ""
+msgstr "Erotin"
 
 #: comctl32.rc:44 progman.rc:78
 msgctxt "hotkey"
 msgid "None"
-msgstr ""
+msgstr "Ei mitään"
 
 #: comctl32.rc:28 cryptui.rc:227 regedit.rc:234 taskmgr.rc:438 winedbg.rc:54
 #: wordpad.rc:169
 msgid "Close"
-msgstr ""
+msgstr "Sulje"
 
 #: comctl32.rc:33
 msgid "Today:"
-msgstr ""
+msgstr "Tänään:"
 
 #: comctl32.rc:34
 msgid "Go to today"
-msgstr ""
+msgstr "Mene tähän päivään"
 
 #: comdlg32.rc:151 comdlg32.rc:164 comdlg32.rc:453 comdlg32.rc:478
 #: shell32.rc:164 oleview.rc:99
@@ -1198,6 +1205,8 @@ msgid ""
 "Make sure that your user name\n"
 "and password are correct."
 msgstr ""
+"Varmista, että käyttäjätunnus\n"
+"ja salasana ovat oikein."
 
 #: credui.rc:32
 msgid ""
@@ -1206,50 +1215,54 @@ msgid ""
 "Press the Caps Lock key on your keyboard to turn off Caps Lock before\n"
 "entering your password."
 msgstr ""
+"Caps Lockin ollessa päällä salasanan syöttäminen voi olla virheellinen.\n"
+"\n"
+"Paina Caps Lock pois ennen kuin\n"
+"syötät salasanasi."
 
 #: credui.rc:31
 msgid "Caps Lock is On"
-msgstr "Isot kirjaimet päällä"
+msgstr "Caps Lock päällä"
 
 #: crypt32.rc:27
 msgid "Authority Key Identifier"
-msgstr ""
+msgstr "Tunnistautumisavain"
 
 #: crypt32.rc:28
 msgid "Key Attributes"
-msgstr ""
+msgstr "Avaimen attribuutit"
 
 #: crypt32.rc:29
 msgid "Key Usage Restriction"
-msgstr ""
+msgstr "Avaimen käytön rajoitukset"
 
 #: crypt32.rc:30
 msgid "Subject Alternative Name"
-msgstr ""
+msgstr "Aiheen vaihtoehtoinen nimi"
 
 #: crypt32.rc:31
 msgid "Issuer Alternative Name"
-msgstr ""
+msgstr "Liikkeellelaskijan vaihtoehtoinen nimi"
 
 #: crypt32.rc:32
 msgid "Basic Constraints"
-msgstr ""
+msgstr "Perusrajoitteet"
 
 #: crypt32.rc:33
 msgid "Key Usage"
-msgstr ""
+msgstr "Avaimen käyttö"
 
 #: crypt32.rc:34
 msgid "Certificate Policies"
-msgstr ""
+msgstr "Sertifikaatin käytännöt"
 
 #: crypt32.rc:35
 msgid "Subject Key Identifier"
-msgstr ""
+msgstr "Aiheen avaimen identifikoija"
 
 #: crypt32.rc:36
 msgid "CRL Reason Code"
-msgstr ""
+msgstr "CRL syykoodi"
 
 #: crypt32.rc:37
 msgid "CRL Distribution Points"
@@ -11420,11 +11433,11 @@ msgstr ""
 
 #: taskkill.rc:35
 msgid "Process with PID %1!u! was forcibly terminated.\n"
-msgstr ""
+msgstr "Prosessi PID:llä %1!u! lopetettiin pakotetusti.\n"
 
 #: taskkill.rc:36
 msgid "Process \"%1\" with PID %2!u! was forcibly terminated.\n"
-msgstr ""
+msgstr "Prosessi \"%1\" PID:llä %2!u! lopetettiin pakotetusti.\n"
 
 #: taskkill.rc:37
 msgid "Error: Could not find process \"%1\".\n"
@@ -11521,11 +11534,11 @@ msgstr "Pienennä"
 
 #: taskmgr.rc:84 taskmgr.rc:100 taskmgr.rc:127
 msgid "&Cascade"
-msgstr ""
+msgstr "Järjestele"
 
 #: taskmgr.rc:85 taskmgr.rc:101 taskmgr.rc:121
 msgid "&Bring To Front"
-msgstr ""
+msgstr "Tuo eteen"
 
 #: taskmgr.rc:90
 msgid "&About Task Manager"
@@ -11546,15 +11559,15 @@ msgstr "Mene &prosesseihin"
 
 #: taskmgr.rc:149 taskmgr.rc:367
 msgid "&End Process"
-msgstr ""
+msgstr "Lopeta &prosessi"
 
 #: taskmgr.rc:150
 msgid "End Process &Tree"
-msgstr ""
+msgstr "&Lopeta prosessipuu"
 
 #: taskmgr.rc:152 winedbg.rc:29
 msgid "&Debug"
-msgstr ""
+msgstr "&Debuggaa"
 
 #: taskmgr.rc:154
 msgid "Set &Priority"
@@ -11580,7 +11593,7 @@ msgstr "Aseta af&finiteetti"
 
 #: taskmgr.rc:170
 msgid "Edit Debug &Channels..."
-msgstr ""
+msgstr "Muokkaa debuggaus-kanavia..."
 
 #: taskmgr.rc:342 taskmgr.rc:180 taskmgr.rc:181
 msgid "Task Manager"
@@ -11605,7 +11618,7 @@ msgstr "Muistin käyttö"
 
 #: taskmgr.rc:378
 msgid "Totals"
-msgstr ""
+msgstr "Kokonais"
 
 #: taskmgr.rc:379
 msgid "Commit charge (K)"
@@ -11621,11 +11634,11 @@ msgstr "Ytimen muisti (K)"
 
 #: taskmgr.rc:382 taskmgr.rc:290
 msgid "Handles"
-msgstr ""
+msgstr "Käsittely"
 
 #: taskmgr.rc:383 taskmgr.rc:291
 msgid "Threads"
-msgstr ""
+msgstr "Säikeet"
 
 #: taskmgr.rc:384 taskmgr.rc:263
 msgid "Processes"
@@ -11667,7 +11680,7 @@ msgstr "Muistin käyttöhistoria"
 
 #: taskmgr.rc:432 taskmgr.rc:327
 msgid "Debug Channels"
-msgstr ""
+msgstr "Debuggaus-kanavat"
 
 #: taskmgr.rc:443
 #, fuzzy
@@ -11679,6 +11692,8 @@ msgid ""
 "The Processor Affinity setting controls which CPUs the process will be "
 "allowed to execute on."
 msgstr ""
+"Affiniteetti määrittää, mitkä suorittimista"
+"on sallittu käyttöön."
 
 #: taskmgr.rc:450
 msgid "CPU 0"
@@ -11811,12 +11826,13 @@ msgstr ""
 #: taskmgr.rc:518
 #, fuzzy
 msgid "Select Columns"
-msgstr "&Palsta"
+msgstr "&Palstat"
 
 #: taskmgr.rc:523
 msgid ""
 "Select the columns that will appear on the Process page of the Task Manager."
 msgstr ""
+"Valitse palstat, jotka näkyvät Prosessit-sivulla."
 
 #: taskmgr.rc:525
 #, fuzzy
@@ -11825,7 +11841,7 @@ msgstr "Kuva"
 
 #: taskmgr.rc:527
 msgid "&PID (Process Identifier)"
-msgstr ""
+msgstr "PID"
 
 #: taskmgr.rc:529
 msgid "&CPU Usage"
@@ -11841,7 +11857,7 @@ msgstr "Muistinkäyttö"
 
 #: taskmgr.rc:535
 msgid "Memory Usage &Delta"
-msgstr ""
+msgstr "Muistinkäytön erotus"
 
 #: taskmgr.rc:537
 msgid "Pea&k Memory Usage"
@@ -11850,11 +11866,11 @@ msgstr "Muistinkäytön piikki"
 #: taskmgr.rc:539
 #, fuzzy
 msgid "Page &Faults"
-msgstr "Sivu Vasempaan"
+msgstr "Sivutusvirheet"
 
 #: taskmgr.rc:541
 msgid "&USER Objects"
-msgstr ""
+msgstr "USER-objektit"
 
 #: taskmgr.rc:543 taskmgr.rc:281
 msgid "I/O Reads"
@@ -11871,16 +11887,16 @@ msgstr "Istunnon ID"
 #: taskmgr.rc:549
 #, fuzzy
 msgid "User &Name"
-msgstr "&Nimen mukaan"
+msgstr "&Käyttäjä"
 
 #: taskmgr.rc:551
 #, fuzzy
 msgid "Page F&aults Delta"
-msgstr "Sivu Vasempaan"
+msgstr "Sivutusvirheet"
 
 #: taskmgr.rc:553
 msgid "&Virtual Memory Size"
-msgstr ""
+msgstr "&Virtuaalinen muisti"
 
 #: taskmgr.rc:555
 #, fuzzy
@@ -11890,207 +11906,207 @@ msgstr "Sivu Alas"
 #: taskmgr.rc:557
 #, fuzzy
 msgid "N&on-paged Pool"
-msgstr "Sivu Alas"
+msgstr "Sivuttamaton"
 
 #: taskmgr.rc:559
 msgid "Base P&riority"
-msgstr ""
+msgstr "Kantaprioriteetti"
 
 #: taskmgr.rc:561
 msgid "&Handle Count"
-msgstr ""
+msgstr "&Käsitelty"
 
 #: taskmgr.rc:563
 msgid "&Thread Count"
-msgstr ""
+msgstr "&Säikeitä"
 
 #: taskmgr.rc:565 taskmgr.rc:292
 msgid "GDI Objects"
-msgstr ""
+msgstr "GDI-objektit"
 
 #: taskmgr.rc:567 taskmgr.rc:293
 msgid "I/O Writes"
-msgstr ""
+msgstr "I/O kirjoitukset"
 
 #: taskmgr.rc:569 taskmgr.rc:294
 msgid "I/O Write Bytes"
-msgstr ""
+msgstr "I/O luetut tavut"
 
 #: taskmgr.rc:571 taskmgr.rc:295
 msgid "I/O Other"
-msgstr ""
+msgstr "I/O muut"
 
 #: taskmgr.rc:573 taskmgr.rc:296
 msgid "I/O Other Bytes"
-msgstr ""
+msgstr "I/O muut tavut"
 
 #: taskmgr.rc:182
 msgid "Create New Task"
-msgstr ""
+msgstr "Luo uusi tehtävä"
 
 #: taskmgr.rc:187
 msgid "Runs a new program"
-msgstr ""
+msgstr "Ajaa uuden ohjelman"
 
 #: taskmgr.rc:188
 msgid "Task Manager remains in front of all other windows unless minimized"
-msgstr ""
+msgstr "Tehtävienhallinta pysyy muiden ikkunoiden edessä"
 
 #: taskmgr.rc:190
 msgid "Task Manager is minimized when a SwitchTo operation is performed"
-msgstr ""
+msgstr "Tehtävienhallinta on piennennettynä, kun SwitchTo-operaatio suoritetaan"
 
 #: taskmgr.rc:191
 msgid "Hide the Task Manager when it is minimized"
-msgstr ""
+msgstr "Piilota Tehtävienhallinta pienennettäessä"
 
 #: taskmgr.rc:192
 msgid "Force Task Manager to update now, regardless of Update Speed setting"
-msgstr ""
+msgstr "Pakota Tehtävienhallinnan päivitys välittömästi"
 
 #: taskmgr.rc:193
 msgid "Displays tasks by using large icons"
-msgstr ""
+msgstr "Näyttää tehtävät käyttäen isoja kuvakkeita"
 
 #: taskmgr.rc:194
 msgid "Displays tasks by using small icons"
-msgstr ""
+msgstr "Näyttää tehtävät käyttäen pieniä kuvakkeita"
 
 #: taskmgr.rc:195
 msgid "Displays information about each task"
-msgstr ""
+msgstr "Näyttää tiedot tehtävittäin"
 
 #: taskmgr.rc:196
 msgid "Updates the display twice per second"
-msgstr ""
+msgstr "Päivittää näytön kahdesti sekunnissa"
 
 #: taskmgr.rc:197
 msgid "Updates the display every two seconds"
-msgstr ""
+msgstr "Päivittää näytön joka toinen sekunti"
 
 #: taskmgr.rc:198
 msgid "Updates the display every four seconds"
-msgstr ""
+msgstr "Päivittää näytön joka neljäs sekunti"
 
 #: taskmgr.rc:203
 msgid "Does not automatically update"
-msgstr ""
+msgstr "Ei päivitä automaattisesti"
 
 #: taskmgr.rc:205
 msgid "Tiles the windows horizontally on the desktop"
-msgstr ""
+msgstr "Laatikoi ikkunat vaakatasossa työpöydälle"
 
 #: taskmgr.rc:206
 msgid "Tiles the windows vertically on the desktop"
-msgstr ""
+msgstr "Laatikoi ikkunat pystytasossa työpöydälle"
 
 #: taskmgr.rc:207
 msgid "Minimizes the windows"
-msgstr ""
+msgstr "Pienentää ikkunan"
 
 #: taskmgr.rc:208
 msgid "Maximizes the windows"
-msgstr ""
+msgstr "Suurentaa ikkunan"
 
 #: taskmgr.rc:209
 msgid "Cascades the windows diagonally on the desktop"
-msgstr ""
+msgstr "Järjestelee ikkunat diagonaalisesti työpöydälle"
 
 #: taskmgr.rc:210
 msgid "Brings the window front, but does not switch to it"
-msgstr ""
+msgstr "Tuo ikkunan eteen, muttei tee aktiiviseksi"
 
 #: taskmgr.rc:211
 msgid "Displays Task Manager help topics"
-msgstr ""
+msgstr "Näyttää Tehtävienhallinnan ohjetiedostot"
 
 #: taskmgr.rc:212
 msgid "Displays program information, version number, and copyright"
-msgstr ""
+msgstr "Näyttää ohjelman tiedot, version, ja tekijänoikeudet"
 
 #: taskmgr.rc:213
 msgid "Exits the Task Manager application"
-msgstr ""
+msgstr "Poistuu Tehtävienhallinnasta"
 
 #: taskmgr.rc:215
 msgid "Shows 16-bit tasks under the associated ntvdm.exe"
-msgstr ""
+msgstr "Näyttää 16-bittiset assosioituneena ntvdm.exe:ssä"
 
 #: taskmgr.rc:216
 msgid "Select which columns will be visible on the Process page"
-msgstr ""
+msgstr "Valitse, mitkä palstat näkyvät Prosessit-sivulla"
 
 #: taskmgr.rc:217
 msgid "Displays kernel time in the performance graphs"
-msgstr ""
+msgstr "Näyttää ytimen ajat suorituskykykuvaajassa"
 
 #: taskmgr.rc:219
 msgid "A single history graph shows total CPU usage"
-msgstr ""
+msgstr "Yksittäinen kuvaaja näyttää kokonaiskäyttöasteen"
 
 #: taskmgr.rc:220
 msgid "Each CPU has its own history graph"
-msgstr ""
+msgstr "Jokaisella suorittimella oma kuvaaja"
 
 #: taskmgr.rc:222
 msgid "Brings a task to the foreground, switch focus to that task"
-msgstr ""
+msgstr "Tuo tehtävän näkyviin lähemmin tarkasteltavaksi"
 
 #: taskmgr.rc:227
 msgid "Tells the selected tasks to close"
-msgstr ""
+msgstr "Kertoo valittujen tehtävien sulkeutua"
 
 #: taskmgr.rc:228
 msgid "Switches the focus to the process of the selected task"
-msgstr ""
+msgstr "Tarkastelee prosessia valitulta tehtävältä"
 
 #: taskmgr.rc:229
 msgid "Restores the Task Manager from its hidden state"
-msgstr ""
+msgstr "Tuo Tehtävienhallinnan esiin"
 
 #: taskmgr.rc:230
 msgid "Removes the process from the system"
-msgstr ""
+msgstr "Poistaa prosessin järjestelmästä"
 
 #: taskmgr.rc:232
 msgid "Removes this process and all descendants from the system"
-msgstr ""
+msgstr "Poistaa prosessin ja kaikki lapsiprosessit järjestelmästä"
 
 #: taskmgr.rc:233
 msgid "Attaches the debugger to this process"
-msgstr ""
+msgstr "Liittää debuggerin tälle prosessille"
 
 #: taskmgr.rc:235
 msgid "Controls which processors the process will be allowed to run on"
-msgstr ""
+msgstr "Määrittää, mitä suorittimia prosessi on sallittu käyttämään"
 
 #: taskmgr.rc:237
 msgid "Sets process to the REALTIME priority class"
-msgstr ""
+msgstr "Asettaa prosessin reaaliaikaiselle prioriteetille"
 
 #: taskmgr.rc:238
 msgid "Sets process to the HIGH priority class"
-msgstr ""
+msgstr "Asettaa prosessin korkealle prioriteetille"
 
 #: taskmgr.rc:240
 msgid "Sets process to the ABOVE NORMAL priority class"
-msgstr ""
+msgstr "Asettaa prosessin normaalia korkeammalle prioriteetille"
 
 #: taskmgr.rc:242
 msgid "Sets process to the NORMAL priority class"
-msgstr ""
+msgstr "Asettaa prosessin normaalille prioriteetille"
 
 #: taskmgr.rc:244
 msgid "Sets process to the BELOW NORMAL priority class"
-msgstr ""
+msgstr "Asettaa prosessin normaalia alemmalle prioriteetille"
 
 #: taskmgr.rc:245
 msgid "Sets process to the LOW priority class"
-msgstr ""
+msgstr "Asettaa prosessin matalalle prioriteetille"
 
 #: taskmgr.rc:247
 msgid "Controls Debug Channels"
-msgstr ""
+msgstr "Hallinnoi debuggaus-kanavia"
 
 #: taskmgr.rc:264
 msgid "Performance"
@@ -12135,12 +12151,12 @@ msgstr ""
 
 #: taskmgr.rc:278
 msgid "Peak Mem Usage"
-msgstr ""
+msgstr "Muistinkäytön piikki"
 
 #: taskmgr.rc:279
 #, fuzzy
 msgid "Page Faults"
-msgstr "Sivu Vasempaan"
+msgstr "Sivutusvirheet"
 
 #: taskmgr.rc:280
 msgid "USER Objects"
@@ -12148,11 +12164,11 @@ msgstr ""
 
 #: taskmgr.rc:283
 msgid "Session ID"
-msgstr ""
+msgstr "Istunnon ID"
 
 #: taskmgr.rc:284
 msgid "Username"
-msgstr ""
+msgstr "Käyttäjä"
 
 #: taskmgr.rc:285
 msgid "PF Delta"
@@ -12177,7 +12193,7 @@ msgstr ""
 
 #: taskmgr.rc:301
 msgid "Task Manager Warning"
-msgstr ""
+msgstr "Tehtävänhallinnan varoitus"
 
 #: taskmgr.rc:304
 msgid ""
@@ -12185,6 +12201,9 @@ msgid ""
 "cause undesired results including system instability. Are you\n"
 "sure you want to change the priority class?"
 msgstr ""
+"VAROITUS: Proiorteettiluokan muuttaminen tälle prosessille voi\n"
+"aiheuttaa ei-toivottuja tuloksia järjestelmän vakauteen. Haluatko\n"
+"varmasti muuttaa prioriteettiluokkaa?"
 
 #: taskmgr.rc:305
 msgid "Unable to Change Priority"
@@ -12274,7 +12293,7 @@ msgstr ""
 
 #: view.rc:33
 msgid "&Pan"
-msgstr ""
+msgstr "&Kierto"
 
 #: view.rc:35
 msgid "&Scale to Window"
@@ -12441,7 +12460,7 @@ msgstr "&Muokkaa"
 
 #: winecfg.rc:196
 msgid "Edit Override"
-msgstr "Edit Override"
+msgstr "Muokkaa näärityksiä"
 
 #: winecfg.rc:199
 #, fuzzy
@@ -12580,7 +12599,7 @@ msgstr "Kansio:"
 
 #: winecfg.rc:293
 msgid "&Link to:"
-msgstr "Link to:"
+msgstr "Linkitä:"
 
 #: winecfg.rc:31
 msgid "Libraries"
@@ -12637,7 +12656,7 @@ msgstr "Kansio"
 
 #: winecfg.rc:46
 msgid "Links to"
-msgstr ""
+msgstr "Linkitä"
 
 #: winecfg.rc:42
 msgid "Wine configuration for %s"
@@ -12812,7 +12831,7 @@ msgstr "&Kopioi Tausta"
 
 #: winecfg.rc:99
 msgid "ToolTip Text"
-msgstr ""
+msgstr "ToolTip-teksti"
 
 #: winecfg.rc:100
 #, fuzzy
@@ -12826,7 +12845,7 @@ msgstr "Ikkunan teksti"
 #: winecfg.rc:102
 #, fuzzy
 msgid "Active Title Bar"
-msgstr "&Ilman otsikkopalkkia"
+msgstr "Aktiivinen otsikkopalkki"
 
 #: winecfg.rc:103
 msgid "Active Title Text"
@@ -12834,7 +12853,7 @@ msgstr "Aktiivinen otsikkoteksti"
 
 #: winecfg.rc:104
 msgid "Inactive Title Bar"
-msgstr ""
+msgstr "Passiivinen otsikkopalkki"
 
 #: winecfg.rc:105
 msgid "Inactive Title Text"
@@ -12851,15 +12870,15 @@ msgstr "Valinnat"
 
 #: winecfg.rc:108
 msgid "Window Frame"
-msgstr ""
+msgstr "Ikkunan ruutu"
 
 #: winecfg.rc:109
 msgid "Active Border"
-msgstr ""
+msgstr "Aktiivinen raja"
 
 #: winecfg.rc:110
 msgid "Inactive Border"
-msgstr ""
+msgstr "Passiivinen raja"
 
 #: winecfg.rc:111
 #, fuzzy
@@ -12868,36 +12887,36 @@ msgstr "Ohjauspaneeli"
 
 #: winecfg.rc:112
 msgid "Gray Text"
-msgstr ""
+msgstr "Harmaa teksti"
 
 #: winecfg.rc:113
 msgid "Controls Highlight"
-msgstr ""
+msgstr "Kontorllit korostaen"
 
 #: winecfg.rc:114
 msgid "Controls Dark Shadow"
-msgstr ""
+msgstr "Kontorllit tummalla varjolla"
 
 #: winecfg.rc:115
 #, fuzzy
 msgid "Controls Light"
-msgstr "Hallinta"
+msgstr "Kontrollit vaaleat"
 
 #: winecfg.rc:116
 msgid "Controls Alternate Background"
-msgstr ""
+msgstr "Kontrollit vuorottelevalla taustalla"
 
 #: winecfg.rc:117
 msgid "Hot Tracked Item"
-msgstr ""
+msgstr "Jäljitä kohde"
 
 #: winecfg.rc:118
 msgid "Active Title Bar Gradient"
-msgstr ""
+msgstr "Aktiivisen otsikkopalkin kaltevuus"
 
 #: winecfg.rc:119
 msgid "Inactive Title Bar Gradient"
-msgstr ""
+msgstr "Passiivisen otsikkopalkin kaltevuus"
 
 #: winecfg.rc:120
 msgid "Menu Highlight"
@@ -12905,7 +12924,7 @@ msgstr "Valikon korostus"
 
 #: winecfg.rc:121
 msgid "Menu Bar"
-msgstr ""
+msgstr "Valikkopalkki"
 
 #: wineconsole.rc:60
 msgid "Cursor size"
@@ -12956,7 +12975,7 @@ msgstr "Komentohistoria"
 
 #: wineconsole.rc:73
 msgid "&Number of recalled commands :"
-msgstr ""
+msgstr "&Uudelleenkutsuttujen komentojen määrä:"
 
 #: wineconsole.rc:76
 #, fuzzy
@@ -12980,7 +12999,7 @@ msgstr "Valinnat"
 
 #: wineconsole.rc:100
 msgid "Buffer zone"
-msgstr ""
+msgstr "Puskuri"
 
 #: wineconsole.rc:101
 msgid "&Width :"
@@ -13002,16 +13021,16 @@ msgstr "Leveys:"
 #: wineconsole.rc:112
 #, fuzzy
 msgid "H&eight :"
-msgstr "&Oikea:"
+msgstr "&Korkeus:"
 
 #: wineconsole.rc:116
 msgid "End of program"
-msgstr ""
+msgstr "Ohjelman loppu"
 
 #: wineconsole.rc:117
 #, fuzzy
 msgid "&Close console"
-msgstr "A&vaa Uudessa Ikkunassa"
+msgstr "%Sulje konsoli"
 
 #: wineconsole.rc:119
 #, fuzzy
@@ -13172,7 +13191,7 @@ msgstr "Sisäisiä virheitä - virheelliset parametrit"
 
 #: winedbg.rc:37
 msgid "(unidentified)"
-msgstr ""
+msgstr "(määrittelemätön)"
 
 #: winefile.rc:26
 #, fuzzy
