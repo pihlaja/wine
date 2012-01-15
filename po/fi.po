@@ -11428,7 +11428,7 @@ msgstr ""
 
 #: taskkill.rc:37
 msgid "Error: Could not find process \"%1\".\n"
-msgstr "Virhe: Prosessia ei löydy."
+msgstr "Virhe: Prosessia \"%1\" ei löydy.\n"
 
 #: taskkill.rc:38
 msgid "Error: Unable to enumerate the process list.\n"
@@ -11440,7 +11440,7 @@ msgstr "Virhe: Prosessin lopettaminen epäonnistui.\n"
 
 #: taskkill.rc:40
 msgid "Error: Process self-termination is not permitted.\n"
-msgstr ""
+msgstr "Virhe: Prosessin lopettamiseen ei oikeuksia.\n"
 
 #: taskmgr.rc:37 taskmgr.rc:108
 msgid "&New Task (Run...)"
@@ -13082,7 +13082,7 @@ msgstr "Tämä on testi"
 
 #: wineconsole.rc:41
 msgid "wineconsole: Couldn't parse event id\n"
-msgstr "winekonsoli: Ei voida käsitellä tapahtuma-id:tä"
+msgstr "winekonsoli: Ei voida käsitellä tapahtuma-id:tä\n"
 
 #: wineconsole.rc:42
 msgid "wineconsole: Invalid backend\n"
